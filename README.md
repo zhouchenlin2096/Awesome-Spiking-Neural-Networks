@@ -1,3 +1,3 @@
 # Awesome-Spiking-Neural-Networks
-Collect some Transformer with Computer-Vision (CV) papers.
+Collect some spiking neural network papers.
 If you find some overlooked papers, please open issues or pull requests (recommended).
