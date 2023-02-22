@@ -8,8 +8,9 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 
 ### 2023
 
-**ECCV**
+**TPAMI**
 - Attention Spiking Neural Networks [[paper](https://ieeexplore.ieee.org/abstract/document/10032591)] [[code](https://github.com/fangwei123456/spikingjelly/pull/329)]
+**ICLR**
 - **[spikformer]** SPIKFORMER: WHEN SPIKING NEURAL NETWORK MEETS TRANSFORMER [[paper](https://openreview.net/forum?id=frE4fUwz_h)] [[code](https://github.com/ZK-Zhou/spikformer)]
 
 ### 2022
