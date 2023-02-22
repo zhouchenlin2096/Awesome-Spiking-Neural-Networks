@@ -8,7 +8,7 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 
 ### 2023
 
-**TPAMI,ICLR**
+**TPAMI, ICLR**
 - Attention Spiking Neural Networks [[paper](https://ieeexplore.ieee.org/abstract/document/10032591)] [[code](https://github.com/fangwei123456/spikingjelly/pull/329)]
 - **[spikformer]** SPIKFORMER: WHEN SPIKING NEURAL NETWORK MEETS TRANSFORMER [[paper](https://openreview.net/forum?id=frE4fUwz_h)] [[code](https://github.com/ZK-Zhou/spikformer)]
 
@@ -20,7 +20,7 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 
 ### 2021
 
-**NeurIPS,ICCV,IJCAI**
+**NeurIPS, ICCV, IJCAI**
 
 - Deep Residual Learning in Spiking Neural Networks [[paper](https://proceedings.neurips.cc/paper/2021/file/afe434653a898da20044041262b3ac74-Paper.pdf)] [[code](https://github.com/fangwei123456/Spike-Element-Wise-ResNet)]
 - Spiking Deep Residual Network[[paper](https://arxiv.org/pdf/1805.01352.pdf)]
