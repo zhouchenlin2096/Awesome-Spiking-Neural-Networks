@@ -23,3 +23,7 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 
 ### 2021
 
+**NeurIPS**
+
+- Deep Residual Learning in Spiking Neural Networks [[paper](https://proceedings.neurips.cc/paper/2021/file/afe434653a898da20044041262b3ac74-Paper.pdf)] [[code](https://github.com/fangwei123456/Spike-Element-Wise-ResNet)]
+
