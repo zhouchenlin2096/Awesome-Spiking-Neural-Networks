@@ -10,13 +10,36 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 
 **TPAMI, ICLR**
 - Attention Spiking Neural Networks [[paper](https://ieeexplore.ieee.org/abstract/document/10032591)] [[code](https://github.com/fangwei123456/spikingjelly/pull/329)]
-- **[spikformer]** SPIKFORMER: WHEN SPIKING NEURAL NETWORK MEETS TRANSFORMER [[paper](https://openreview.net/forum?id=frE4fUwz_h)] [[code](https://github.com/ZK-Zhou/spikformer)]
+- SPIKFORMER: WHEN SPIKING NEURAL NETWORK MEETS TRANSFORMER [[paper](https://openreview.net/forum?id=frE4fUwz_h)] [[code](https://github.com/ZK-Zhou/spikformer)]
+- Bridging the Gap between ANNs and SNNs by Calibrating Offset Spikes [[paper](https://openreview.net/forum?id=PFbzoWZyZRX)] [[code](https://github.com/hzc1208/ANN2SNN_COS)]
+- A Unified Framework of Soft Threshold Pruning [[paper](https://openreview.net/forum?id=cCFqcrq0d8)] 
+- Reducing ANN-SNN Conversion Error through Residual Membrane Potential [[paper](https://arxiv.org/abs/2302.02091)] [[code](https://github.com/hzc1208/ANN2SNN_SRP)]
 
 **Arxiv**
 
 - Training Full Spike Neural Networks via Auxiliary Accumulation Pathway [[paper](https://arxiv.org/pdf/2301.11929.pdf)]
 
+
 ### 2022
+
+**NeurIPS, CVPR, ICLR, AAAI, ICML, Nature Communications**
+
+- Event-based Video Reconstruction via Potential-assisted Spiking Neural Network [[paper](https://arxiv.org/abs/2201.10943)] [[code](https://github.com/LinZhu111/EVSNN)]
+- Optimal ANN-SNN Conversion for High-accuracy and Ultra-low-latency Spiking Neural Networks [[paper](https://openreview.net/forum?id=7B3IJMM1k_M)] [[code](https://github.com/putshua/SNN-conversion-QCFS)]
+- Optimized Potential Initialization for Low-latency Spiking Neural Networks [[paper](https://arxiv.org/abs/2202.01440)]
+- AutoSNN: Towards Energy-Efficient Spiking Neural Networks [[paper](https://arxiv.org/abs/2201.12738)]
+- Neural Architecture Search for Spiking Neural Networks [[paper](https://arxiv.org/abs/2201.10355)] [[code](https://github.com/Intelligent-Computing-Lab-Yale/Neural-Architecture-Search-for-Spiking-Neural-Networks)]
+- Neuromorphic Data Augmentation for Training Spiking Neural Networks [[paper](https://arxiv.org/abs/2203.06145)] [[code](https://github.com/Intelligent-Computing-Lab-Yale/NDA_SNN)]
+- State Transition of Dendritic Spines Improves Learning of Sparse Spiking Neural Networks [[paper](https://proceedings.mlr.press/v162/chen22ac.html)] [[code](https://github.com/Yanqi-Chen/STDS)]
+- Training High-Performance Low-Latency Spiking Neural Networks by Differentiation on Spike Representation [[paper](https://arxiv.org/abs/2205.00459)] [[code](https://github.com/qymeng94/DSR)]
+- Exploring Lottery Ticket Hypothesis in Spiking Neural Networks [[paper](https://arxiv.org/abs/2207.01382)] [[code](https://github.com/Intelligent-Computing-Lab-Yale/Exploring-Lottery-Ticket-Hypothesis-in-SNNs)]
+- Spiking Graph Convolutional Networks [[paper](https://arxiv.org/abs/2205.02767)] [[code](https://github.com/ZulunZhu/SpikingGCN)]
+- A calibratable sensory neuron based on epitaxial VO2 for spike-based neuromorphic multisensory system [[paper][https://www.nature.com/articles/s41467-022-31747-w]] [[code](https://github.com/billyuanpku96/SNN-for-sensory-neuron)]
+- Online Training Through Time for Spiking Neural Networks [[paper](https://arxiv.org/abs/2210.04195)] [[code](https://github.com/pkuxmq/OTTT-SNN)]
+- Training Spiking Neural Networks with Event-driven Backpropagation [[paper](https://openreview.net/forum?id=nC8VC8gVGPo)] [[code](https://github.com/zhuyaoyu/SNN-event-driven-learning)]
+- GLIF: A Unified Gated Leaky Integrate-and-Fire Neuron for Spiking Neural Networks [[paper](https://openreview.net/forum?id=UmFSx2c4ubT)] [[code](https://github.com/Ikarosy/Gated-LIF)]
+- Temporal Effective Batch Normalization in Spiking Neural Networks [[paper](https://openreview.net/forum?id=fLIgyyQiJqz)]
+
 
 ### 2021
 
