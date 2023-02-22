@@ -9,7 +9,7 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 ### 2023
 
 **ECCV**
-- **[X-CLIP]** Expanding Language-Image Pretrained Models for General Video Recognition [[paper](https://arxiv.org/abs/2208.02816)] [[code](https://aka.ms/X-CLIP)]
+- **[X-CLIP]** Attention Spiking Neural Networks [[paper](https://ieeexplore.ieee.org/abstract/document/10032591)] [[code](https://github.com/fangwei123456/spikingjelly/pull/329]
 - **[TinyViT]** TinyViT: Fast Pretraining Distillation for Small Vision Transformers [[paper](https://arxiv.org/abs/2207.10666)] [[code](https://github.com/microsoft/Cream/tree/main/TinyViT)]
 
 ### 2022
