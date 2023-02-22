@@ -10,7 +10,7 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 
 **ECCV**
 - Attention Spiking Neural Networks [[paper](https://ieeexplore.ieee.org/abstract/document/10032591)] [[code](https://github.com/fangwei123456/spikingjelly/pull/329)]
-- **[TinyViT]** TinyViT: Fast Pretraining Distillation for Small Vision Transformers [[paper](https://arxiv.org/abs/2207.10666)] [[code](https://github.com/microsoft/Cream/tree/main/TinyViT)]
+- **[spikformer]** SPIKFORMER: WHEN SPIKING NEURAL NETWORK MEETS TRANSFORMER [[paper](https://openreview.net/forum?id=frE4fUwz_h)] [[code](https://github.com/ZK-Zhou/spikformer)]
 
 ### 2022
 
