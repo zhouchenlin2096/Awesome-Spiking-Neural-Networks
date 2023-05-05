@@ -8,16 +8,22 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 
 ### 2023
 
-**TPAMI, ICLR**
+**TPAMI, ICLR, AAAI, ICLR**
 - Attention Spiking Neural Networks [[paper](https://ieeexplore.ieee.org/abstract/document/10032591)] [[code](https://github.com/fangwei123456/spikingjelly/pull/329)]
 - SPIKFORMER: WHEN SPIKING NEURAL NETWORK MEETS TRANSFORMER [[paper](https://openreview.net/forum?id=frE4fUwz_h)] [[code](https://github.com/ZK-Zhou/spikformer)]
 - Bridging the Gap between ANNs and SNNs by Calibrating Offset Spikes [[paper](https://openreview.net/forum?id=PFbzoWZyZRX)] [[code](https://github.com/hzc1208/ANN2SNN_COS)]
 - A Unified Framework of Soft Threshold Pruning [[paper](https://openreview.net/forum?id=cCFqcrq0d8)] 
 - Reducing ANN-SNN Conversion Error through Residual Membrane Potential [[paper](https://arxiv.org/abs/2302.02091)] [[code](https://github.com/hzc1208/ANN2SNN_SRP)]
+- Deep Spiking Neural Networks with High Representation Similarity Model Visual Pathways of Macaque and Mouse [[paper](https://arxiv.org/abs/2303.06060)]
+- Reducing ANN-SNN Conversion Error through Residual Membrane Potential [[paper](https://arxiv.org/abs/2302.02091)] [[paper](https://github.com/hzc1208/ANN2SNN_SRP)]
+- Bridging the Gap between ANNs and SNNs by Calibrating Offset Spikes [[paper](https://openreview.net/forum?id=PFbzoWZyZRX)] [[code](https://github.com/hzc1208/ANN2SNN_COS)]
 
 **Arxiv**
 
 - Training Full Spike Neural Networks via Auxiliary Accumulation Pathway [[paper](https://arxiv.org/pdf/2301.11929.pdf)]
+- MSS-DepthNet: Depth Prediction with Multi-Step Spiking Neural Network [[paper](https://arxiv.org/abs/2211.12156)]
+- Parallel Spiking Neurons with High Efficiency and Long-term Dependencies Learning Ability [[paper](https://arxiv.org/abs/2304.12760)] [[paper](https://github.com/fangwei123456/Parallel-Spiking-Neuron)]
+- SpikeGPT: Generative Pre-trained Language Model with Spiking Neural Networks [[paper](https://arxiv.org/abs/2302.13939)] [[code](https://github.com/ridgerchu/SpikeGPT)]
 
 
 ### 2022
