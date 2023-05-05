@@ -17,6 +17,7 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 - Deep Spiking Neural Networks with High Representation Similarity Model Visual Pathways of Macaque and Mouse [[paper](https://arxiv.org/abs/2303.06060)]
 - Reducing ANN-SNN Conversion Error through Residual Membrane Potential [[paper](https://arxiv.org/abs/2302.02091)] [[paper](https://github.com/hzc1208/ANN2SNN_SRP)]
 - Bridging the Gap between ANNs and SNNs by Calibrating Offset Spikes [[paper](https://openreview.net/forum?id=PFbzoWZyZRX)] [[code](https://github.com/hzc1208/ANN2SNN_COS)]
+- A Unified Framework of Soft Threshold Pruning [[paper](https://openreview.net/forum?id=cCFqcrq0d8)]
 
 **Arxiv**
 
