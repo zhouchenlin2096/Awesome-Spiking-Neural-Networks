@@ -2,7 +2,7 @@
 
 Collect some spiking neural network papers.
 
-If you own or find some overlooked papers, you can add it to this document by pull request (recommended).
+If you own or find some overlooked papers, you can add it to this document by pull request (recommended). 
 
 ## Papers
 
