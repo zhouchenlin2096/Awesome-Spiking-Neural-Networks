@@ -43,7 +43,7 @@ If you own or find some overlooked papers, you can add it to this document by pu
 - Exploring Lottery Ticket Hypothesis in Spiking Neural Networks [[paper](https://arxiv.org/abs/2207.01382)] [[code](https://github.com/Intelligent-Computing-Lab-Yale/Exploring-Lottery-Ticket-Hypothesis-in-SNNs)]
 - Spiking Graph Convolutional Networks [[paper](https://arxiv.org/abs/2205.02767)] [[code](https://github.com/ZulunZhu/SpikingGCN)]
 - A calibratable sensory neuron based on epitaxial VO2 for spike-based neuromorphic multisensory system [[paper](https://www.nature.com/articles/s41467-022-31747-w)] [[code](https://github.com/billyuanpku96/SNN-for-sensory-neuron)]
-- Online Training Through Time for Spiking Neural Networks [[paper](https://arxiv.org/abs/2210.04195)] [[code](https://github.com/pkuxmq/OTTT-SNN)]
+- Online Training Through Time for Spiking Neural Networks, NeurIPS,  [[paper](https://arxiv.org/abs/2210.04195)] [[code](https://github.com/pkuxmq/OTTT-SNN)]
 - Training Spiking Neural Networks with Event-driven Backpropagation [[paper](https://openreview.net/forum?id=nC8VC8gVGPo)] [[code](https://github.com/zhuyaoyu/SNN-event-driven-learning)]
 - GLIF: A Unified Gated Leaky Integrate-and-Fire Neuron for Spiking Neural Networks [[paper](https://openreview.net/forum?id=UmFSx2c4ubT)] [[code](https://github.com/Ikarosy/Gated-LIF)]
 - Temporal Effective Batch Normalization in Spiking Neural Networks [[paper](https://openreview.net/forum?id=fLIgyyQiJqz)]
