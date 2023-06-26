@@ -54,7 +54,7 @@ If you own or find some overlooked papers, you can add it to this document by pu
 
 **NeurIPS, ICCV, IJCAI**
 
-- Deep Residual Learning in Spiking Neural Networks [[paper](https://proceedings.neurips.cc/paper/2021/file/afe434653a898da20044041262b3ac74-Paper.pdf)] [[code](https://github.com/fangwei123456/Spike-Element-Wise-ResNet)]
+- Deep Residual Learning in Spiking Neural Networks (**NeurIPS 2021**). [[paper](https://proceedings.neurips.cc/paper/2021/file/afe434653a898da20044041262b3ac74-Paper.pdf)] [[code](https://github.com/fangwei123456/Spike-Element-Wise-ResNet)]
 - Spiking Deep Residual Network[[paper](https://arxiv.org/pdf/1805.01352.pdf)]
 - Incorporating Learnable Membrane Time Constant to Enhance Learning of Spiking Neural Networks [[paper](https://arxiv.org/abs/2007.05785)]  [[code](https://github.com/fangwei123456/Parametric-Leaky-Integrate-and-Fire-Spiking-Neuron)]
 - Pruning of Deep Spiking Neural Networks through Gradient Rewiring [[paper](https://arxiv.org/abs/2105.04916)] [[code](https://github.com/Yanqi-Chen/Gradient-Rewiring)]
