@@ -49,6 +49,7 @@ If you own or find some overlooked papers, you can add it to this document by pu
 - Temporal Effective Batch Normalization in Spiking Neural Networks [[paper](https://openreview.net/forum?id=fLIgyyQiJqz)]
 - Training Spiking Neural Networks with Local Tandem Learning (**NeurIPS 2022**). [[paper](https://arxiv.org/pdf/2210.04532.pdf)]
 - IM-Loss: Information Maximization Loss for Spiking Neural Networks (**NeurIPS 2022**). [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/010c5ba0cafc743fece8be02e7adb8dd-Paper-Conference.pdf)]
+- Temporal Effective Batch Normalization in Spiking Neural Networks (**NeurIPS 2022**). [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/de2ad3ed44ee4e675b3be42aa0b615d0-Paper-Conference.pdf)]
 
 
 ### 2021
