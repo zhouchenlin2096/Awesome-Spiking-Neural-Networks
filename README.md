@@ -60,11 +60,12 @@ If you own or find some overlooked papers, you can add it to this document by pu
 
 - Deep Residual Learning in Spiking Neural Networks (**NeurIPS 2021**). [[paper](https://proceedings.neurips.cc/paper/2021/file/afe434653a898da20044041262b3ac74-Paper.pdf)] [[code](https://github.com/fangwei123456/Spike-Element-Wise-ResNet)]
 - Spiking Deep Residual Network[[paper](https://arxiv.org/pdf/1805.01352.pdf)]
-- Incorporating Learnable Membrane Time Constant to Enhance Learning of Spiking Neural Networks [[paper](https://arxiv.org/abs/2007.05785)]  [[code](https://github.com/fangwei123456/Parametric-Leaky-Integrate-and-Fire-Spiking-Neuron)]
+- Incorporating Learnable Membrane Time Constant to Enhance Learning of Spiking Neural Networks (**ECCV 2021**).  [[paper](https://arxiv.org/abs/2007.05785)]  [[code](https://github.com/fangwei123456/Parametric-Leaky-Integrate-and-Fire-Spiking-Neuron)]
 - Pruning of Deep Spiking Neural Networks through Gradient Rewiring [[paper](https://arxiv.org/abs/2105.04916)] [[code](https://github.com/Yanqi-Chen/Gradient-Rewiring)]
-- A Free Lunch From ANN: Towards Efficient, Accurate Spiking Neural Networks Calibration  (**ICML 2022**).  [[paper](https://arxiv.org/pdf/2103.00476.pdf)] [[code](https://github.com/yhhhli/SNN_Calibration)]
+- A Free Lunch From ANN: Towards Efficient, Accurate Spiking Neural Networks Calibration  (**ICML 2021**).  [[paper](https://arxiv.org/pdf/2103.00476.pdf)] [[code](https://github.com/yhhhli/SNN_Calibration)]
 - Optimal ANN-SNN Conversion for Fast and Accurate Inference in Deep Spiking Neural Networks [[paper](https://arxiv.org/pdf/2106.06984.pdf)] [[code](https://github.com/DingJianhao/OptSNNConvertion-RNL-RIL)]
 - Sparse Spiking Gradient Descent (**NeurIPS 2021**). [[paper](https://proceedings.neurips.cc/paper/2021/file/61f2585b0ebcf1f532c4d1ec9a7d51aa-Paper.pdf)]
 - Training Spiking Neural Networks with Accumulated Spiking Flow (**AAAI 2021**). [[paper](https://arxiv.org/pdf/2011.05280.pdf)]
+- Temporal-wise Attention Spiking Neural Networks for Event Streams Classification. (**ECCV 2021**). [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Yao_Temporal-Wise_Attention_Spiking_Neural_Networks_for_Event_Streams_Classification_ICCV_2021_paper.pdf)]
 
 
