@@ -55,7 +55,7 @@ If you own or find some overlooked papers, you can add it to this document by pu
 
 ### 2021
 
-**NeurIPS, ICCV, IJCAI, ICML**
+**NeurIPS, ICCV, IJCAI, ICML, AAAI**
 
 - Deep Residual Learning in Spiking Neural Networks (**NeurIPS 2021**). [[paper](https://proceedings.neurips.cc/paper/2021/file/afe434653a898da20044041262b3ac74-Paper.pdf)] [[code](https://github.com/fangwei123456/Spike-Element-Wise-ResNet)]
 - Spiking Deep Residual Network[[paper](https://arxiv.org/pdf/1805.01352.pdf)]
@@ -64,5 +64,6 @@ If you own or find some overlooked papers, you can add it to this document by pu
 - A Free Lunch From ANN: Towards Efficient, Accurate Spiking Neural Networks Calibration  (**ICML 2022**).  [[paper](https://arxiv.org/pdf/2103.00476.pdf)] [[code](https://github.com/yhhhli/SNN_Calibration)]
 - Optimal ANN-SNN Conversion for Fast and Accurate Inference in Deep Spiking Neural Networks [[paper](https://arxiv.org/pdf/2106.06984.pdf)] [[code](https://github.com/DingJianhao/OptSNNConvertion-RNL-RIL)]
 - Sparse Spiking Gradient Descent (**NeurIPS 2021**). [[paper](https://proceedings.neurips.cc/paper/2021/file/61f2585b0ebcf1f532c4d1ec9a7d51aa-Paper.pdf)]
+- Training Spiking Neural Networks with Accumulated Spiking Flow (**AAAI 2021**). [[paper](https://arxiv.org/pdf/2011.05280.pdf)]
 
 
