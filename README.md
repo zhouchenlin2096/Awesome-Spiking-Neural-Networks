@@ -52,6 +52,7 @@ If you own or find some overlooked papers, you can add it to this document by pu
 - Temporal Effective Batch Normalization in Spiking Neural Networks (**NeurIPS 2022**). [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/de2ad3ed44ee4e675b3be42aa0b615d0-Paper-Conference.pdf)]
 - Biologically Inspired Dynamic Thresholds for Spiking Neural Networks (**NeurIPS 2022**). [[paper](https://arxiv.org/pdf/2206.04426.pdf)]
 - Optimal Conversion of Conventional Artificial Neural Networks to Spiking Neural Networks (**ICLR 2022**).  [[paper](https://arxiv.org/pdf/2103.00476.pdf)] [[code](https://github.com/Jackn0/snn_optimal_conversion_pipeline)]
+- Multi-Level Firing with Spiking DS-ResNet: Enabling Better and Deeper Directly-Trained Spiking Neural Networks (**IJCAI 2022**). [[paper](https://arxiv.org/pdf/2210.06386.pdf)]
 
 ### 2021
 
