@@ -34,7 +34,7 @@ If you own or find some overlooked papers, you can add it to this document by pu
 
 - Event-based Video Reconstruction via Potential-assisted Spiking Neural Network [[paper](https://arxiv.org/abs/2201.10943)] [[code](https://github.com/LinZhu111/EVSNN)]
 - Optimal ANN-SNN Conversion for High-accuracy and Ultra-low-latency Spiking Neural Networks [[paper](https://openreview.net/forum?id=7B3IJMM1k_M)] [[code](https://github.com/putshua/SNN-conversion-QCFS)]
-- Optimized Potential Initialization for Low-latency Spiking Neural Networks [[paper](https://arxiv.org/abs/2202.01440)]
+- Optimized Potential Initialization for Low-latency Spiking Neural Networks (**AAAI 2022**).  [[paper](https://arxiv.org/abs/2202.01440)]
 - AutoSNN: Towards Energy-Efficient Spiking Neural Networks [[paper](https://arxiv.org/abs/2201.12738)]
 - Neural Architecture Search for Spiking Neural Networks [[paper](https://arxiv.org/abs/2201.10355)] [[code](https://github.com/Intelligent-Computing-Lab-Yale/Neural-Architecture-Search-for-Spiking-Neural-Networks)]
 - Neuromorphic Data Augmentation for Training Spiking Neural Networks [[paper](https://arxiv.org/abs/2203.06145)] [[code](https://github.com/Intelligent-Computing-Lab-Yale/NDA_SNN)]
