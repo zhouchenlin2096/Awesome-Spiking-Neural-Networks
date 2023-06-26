@@ -59,4 +59,6 @@ If you own or find some overlooked papers, you can add it to this document by pu
 - Incorporating Learnable Membrane Time Constant to Enhance Learning of Spiking Neural Networks [[paper](https://arxiv.org/abs/2007.05785)]  [[code](https://github.com/fangwei123456/Parametric-Leaky-Integrate-and-Fire-Spiking-Neuron)]
 - Pruning of Deep Spiking Neural Networks through Gradient Rewiring [[paper](https://arxiv.org/abs/2105.04916)] [[code](https://github.com/Yanqi-Chen/Gradient-Rewiring)]
 - Optimal ANN-SNN Conversion for Fast and Accurate Inference in Deep Spiking Neural Networks [[paper](https://arxiv.org/abs/2105.11654)] [[code](https://github.com/DingJianhao/OptSNNConvertion-RNL-RIL)]
+- Sparse Spiking Gradient Descent (**NeurIPS 2021**). [[paper](https://proceedings.neurips.cc/paper/2021/file/61f2585b0ebcf1f532c4d1ec9a7d51aa-Paper.pdf)]
+
 
