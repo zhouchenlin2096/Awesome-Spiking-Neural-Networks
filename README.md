@@ -10,7 +10,7 @@ If you own or find some overlooked papers, you can add it to this document by pu
 
 **TPAMI, ICLR, AAAI, ICLR**
 - Attention Spiking Neural Networks [[paper](https://ieeexplore.ieee.org/abstract/document/10032591)] [[code](https://github.com/fangwei123456/spikingjelly/pull/329)]
-- SPIKFORMER: WHEN SPIKING NEURAL NETWORK MEETS TRANSFORMER [[paper](https://openreview.net/forum?id=frE4fUwz_h)] [[code](https://github.com/ZK-Zhou/spikformer)]
+- SPIKFORMER: WHEN SPIKING NEURAL NETWORK MEETS TRANSFORMER (**ICLR 2023**) [[paper](https://openreview.net/forum?id=frE4fUwz_h)] [[code](https://github.com/ZK-Zhou/spikformer)]
 - Bridging the Gap between ANNs and SNNs by Calibrating Offset Spikes [[paper](https://openreview.net/forum?id=PFbzoWZyZRX)] [[code](https://github.com/hzc1208/ANN2SNN_COS)]
 - A Unified Framework of Soft Threshold Pruning [[paper](https://openreview.net/forum?id=cCFqcrq0d8)] 
 - Reducing ANN-SNN Conversion Error through Residual Membrane Potential [[paper](https://arxiv.org/abs/2302.02091)] [[code](https://github.com/hzc1208/ANN2SNN_SRP)]
