@@ -9,6 +9,13 @@ If you own or find some overlooked papers, you can add it to this document by pu
 ### 2023
 
 **TPAMI, ICLR, AAAI, ICLR, CVPR, IJCAI, ICML, ICCV**
+- RMP-Loss: Regularizing Membrane Potential Distribution for Spiking Neural Networks	(**ICCV 2023**). [[paper](https://arxiv.org/abs/2308.06787)]
+- Inherent Redundancy in Spiking Neural Networks	(**ICCV 2023**). [[paper](https://arxiv.org/abs/2308.08227)]
+- Temporal-Coded Spiking Neural Networks with Dynamic Firing Threshold: Learning with Event-Driven Backpropagation (**ICCV 2023**). [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Wei_Temporal-Coded_Spiking_Neural_Networks_with_Dynamic_Firing_Threshold_Learning_with_ICCV_2023_paper.pdf)]
+- Efficient Converted Spiking Neural Network for 3D and 2D Classification	(**ICCV 2023**). [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Lan_Efficient_Converted_Spiking_Neural_Network_for_3D_and_2D_Classification_ICCV_2023_paper.pdf)]
+- Deep Directly-Trained Spiking Neural Networks for Object Detection (**ICCV 2023**). [[paper](https://arxiv.org/abs/2307.11411)]
+- Towards Memory- and Time-Efficient Backpropagation for Training Spiking Neural Networks (**ICCV 2023**). [[paper](https://arxiv.org/abs/2302.14311)]
+- SSF: Accelerating Training of Spiking Neural Networks with Stabilized Spiking Flow (**ICCV 2023**). [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_SSF_Accelerating_Training_of_Spiking_Neural_Networks_with_Stabilized_Spiking_ICCV_2023_paper.pdf)]
 - Masked Spiking Transformer (**ICCV 2023**). [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_Masked_Spiking_Transformer_ICCV_2023_paper.pdf)]
 - Adaptive Smoothing Gradient Learning for Spiking Neural Networks (**ICML 2023**). [[paper](https://openreview.net/pdf?id=GdkwSGTpbC)]
 - Surrogate Module Learning: Reduce the Gradient Error Accumulation in Training Spiking Neural Networks (**ICML 2023**). [[paper](https://openreview.net/pdf?id=zRkz4duLKp)] [[code](https://github.com/brain-intelligence-lab/surrogate_module_learning)]
