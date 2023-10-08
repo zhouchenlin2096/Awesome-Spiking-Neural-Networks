@@ -4,6 +4,10 @@ Collect some spiking neural network papers & codes.  (**Actively keep updating**
 
 If you own or find some overlooked papers, you can add it to this document by pull request (recommended). 
 
+## News
+[2023.10.8] Update SNN-related papers in CVPR, IJCAI, ICML, and ICCV.
+
+
 ## Papers
 
 ### 2023
