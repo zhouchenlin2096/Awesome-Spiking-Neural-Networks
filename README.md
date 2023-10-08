@@ -9,6 +9,7 @@ If you own or find some overlooked papers, you can add it to this document by pu
 ### 2023
 
 **TPAMI, ICLR, AAAI, ICLR, CVPR, IJCAI**
+- Learnable Surrogate Gradient for Direct Training Spiking Neural Networks (**IJCAI 2023**). [[paper](https://www.ijcai.org/proceedings/2023/0335.pdf)]
 - Enhancing Efficient Continual Learning with Dynamic Structure Development of Spiking Neural Networks (**IJCAI 2023**). [[paper](https://www.ijcai.org/proceedings/2023/0334.pdf)]
 - Rate Gradient Approximation Attack Threats Deep Spiking Neural Networks (**CVPR 2023**). [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Bu_Rate_Gradient_Approximation_Attack_Threats_Deep_Spiking_Neural_Networks_CVPR_2023_paper.pdf)]
 - Constructing Deep Spiking Neural Networks from Artificial Neural Networks with Knowledge Distillation (**CVPR 2023**). [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Xu_Constructing_Deep_Spiking_Neural_Networks_From_Artificial_Neural_Networks_With_CVPR_2023_paper.pdf)]
