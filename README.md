@@ -8,7 +8,8 @@ If you own or find some overlooked papers, you can add it to this document by pu
 
 ### 2023
 
-**TPAMI, ICLR, AAAI, ICLR, CVPR, IJCAI**
+**TPAMI, ICLR, AAAI, ICLR, CVPR, IJCAI, ICML, ICCV**
+- Masked Spiking Transformer (**ICCV 2023**). [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_Masked_Spiking_Transformer_ICCV_2023_paper.pdf)]
 - Adaptive Smoothing Gradient Learning for Spiking Neural Networks (**ICML 2023**). [[paper](https://openreview.net/pdf?id=GdkwSGTpbC)]
 - Surrogate Module Learning: Reduce the Gradient Error Accumulation in Training Spiking Neural Networks (**ICML 2023**). [[paper](https://openreview.net/pdf?id=zRkz4duLKp)] [[code](https://github.com/brain-intelligence-lab/surrogate_module_learning)]
 - Spatial-Temporal Self-Attention for Asynchronous Spiking Neural Networks (**IJCAI 2023**). [[paper](https://www.ijcai.org/proceedings/2023/0344.pdf)]
