@@ -17,6 +17,15 @@ If you own or find some overlooked papers, you can add it to this document by pu
 ### 2023
 
 **AAAI, ICLR, CVPR, IJCAI, ICML, ICCV, NeurIPS, TPAMI**
+- Temporal Conditioning Spiking Latent Variable Models of the Neural Response to Natural Visual Scenes (**NeurIPS 2023**). [[paper](https://arxiv.org/pdf/2306.12045.pdf)]
+- SEENN: Towards Temporal Spiking Early Exit Neural Networks (**NeurIPS 2023**). [[paper](https://openreview.net/pdf?id=mbaN0Y0QTw)]
+- EICIL: Joint Excitatory Inhibitory Cycle Iteration Learning for Deep Spiking Neural Networks (**NeurIPS 2023**). [[paper](https://openreview.net/pdf?id=OMDgOjdqoZ)]
+- Parallel Spiking Neurons with High Efficiency and Long-term Dependencies Learning Ability (**NeurIPS 2023**). [[paper](https://arxiv.org/abs/2304.12760)] [[code](https://github.com/fangwei123456/Parallel-Spiking-Neuron)]
+- Addressing the speed-accuracy simulation trade-off for adaptive spiking neurons (**NeurIPS 2023**). [[paper](https://openreview.net/pdf?id=Ht79ZTVMsn)]
+- Enhancing Adaptive History Reserving by Spiking Convolutional Block Attention Module in Recurrent Neural Networks (**NeurIPS 2023**). [[paper](https://openreview.net/pdf?id=aGZp61S9Lj)]
+- Trial matching: capturing variability with data-constrained spiking neural networks (**NeurIPS 2023**). [[paper](https://arxiv.org/abs/2306.03603)]
+- Evolving Connectivity for Recurrent Spiking Neural Networks (**NeurIPS 2023**). [[paper](https://arxiv.org/pdf/2305.17650.pdf)]
+- SparseProp: Efficient Event-Based Simulation and Training of Sparse Recurrent Spiking Neural Networks (**NeurIPS 2023**). [[paper](https://openreview.net/pdf?id=yzZbwQPkmP)] 
 - Spiking PointNet: Spiking Neural Networks for Point Clouds (**NeurIPS 2023**). [[paper](https://arxiv.org/pdf/2310.06232v1.pdf)] [[code](https://github.com/dayongren/spiking-pointnet)]
 - Exploring Loss Functions for Time-based Training Strategy in Spiking Neural Networks (**NeurIPS 2023**). 
 - Membrane Potential Batch Normalization for Spiking Neural Networks (**ICCV 2023**). [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Guo_Membrane_Potential_Batch_Normalization_for_Spiking_Neural_Networks_ICCV_2023_paper.pdf)]
@@ -56,7 +65,6 @@ If you own or find some overlooked papers, you can add it to this document by pu
 - Spikingformer: Spike-driven Residual Learning for Transformer-based Spiking Neural Network [[paper](https://arxiv.org/abs/2304.11954)] [[code](https://github.com/zhouchenlin2096/Spikingformer)]
 - Training Full Spike Neural Networks via Auxiliary Accumulation Pathway [[paper](https://arxiv.org/pdf/2301.11929.pdf)]
 - MSS-DepthNet: Depth Prediction with Multi-Step Spiking Neural Network [[paper](https://arxiv.org/abs/2211.12156)]
-- Parallel Spiking Neurons with High Efficiency and Long-term Dependencies Learning Ability [[paper](https://arxiv.org/abs/2304.12760)] [[code](https://github.com/fangwei123456/Parallel-Spiking-Neuron)]
 - SpikeGPT: Generative Pre-trained Language Model with Spiking Neural Networks [[paper](https://arxiv.org/abs/2302.13939)] [[code](https://github.com/ridgerchu/SpikeGPT)]
 
 
