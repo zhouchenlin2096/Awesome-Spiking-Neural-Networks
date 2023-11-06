@@ -44,6 +44,8 @@ If you own or find some overlooked papers, you can add it to this document by pu
 - Bridging the Gap between ANNs and SNNs by Calibrating Offset Spikes (**ICLR 2023**). [[paper](https://openreview.net/forum?id=PFbzoWZyZRX)] [[code](https://github.com/hzc1208/ANN2SNN_COS)]
 - Reducing ANN-SNN Conversion Error through Residual Membrane Potential (**AAAI 2023**). [[paper](https://arxiv.org/abs/2302.02091)] [[code](https://github.com/hzc1208/ANN2SNN_SRP)]
 - Deep Spiking Neural Networks with High Representation Similarity Model Visual Pathways of Macaque and Mouse (**AAAI 2023**). [[paper](https://arxiv.org/abs/2303.06060)]
+- ESL-SNNs: An Evolutionary Structure Learning Strategy for Spiking Neural Networks (**AAAI 2023**). [[paper](https://arxiv.org/pdf/2306.03693.pdf)]
+- Exploring Temporal Information Dynamics in Spiking Neural Networks (**AAAI 2023**). [[paper](https://arxiv.org/pdf/2211.14406.pdf)] [[code](https://github.com/Intelligent-Computing-Lab-Yale/Exploring-Temporal-Information-Dynamics-in-Spiking-Neural-Networks)]
 
 **Arxiv**
 - Spike-driven Transformer [[paper](https://arxiv.org/pdf/2307.01694.pdf)]
