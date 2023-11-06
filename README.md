@@ -7,7 +7,7 @@ If you own or find some overlooked papers, you can add it to this document by pu
 ## News
 [2023.11.6] Update SNN-related papers in NeurIPS 2023 (12 papers).
 
-[2023.10.8] Update SNN-related papers in CVPR 2023 (2 papers), IJCAI 2023 (3), ICML 2023 (2), and ICCV 2023 (10).
+[2023.10.8] Update SNN-related papers in CVPR 2023 (2 papers), ICML 2023 (2), IJCAI 2023 (3), and ICCV 2023 (10).
 
 [2023.6.25] Update SNN-related papers in ICLR 2023 (6 papers), AAAI 2023 (6 papers).
 
@@ -40,11 +40,11 @@ If you own or find some overlooked papers, you can add it to this document by pu
 - Towards Memory- and Time-Efficient Backpropagation for Training Spiking Neural Networks (**ICCV 2023**). [[paper](https://arxiv.org/abs/2302.14311)]
 - SSF: Accelerating Training of Spiking Neural Networks with Stabilized Spiking Flow (**ICCV 2023**). [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_SSF_Accelerating_Training_of_Spiking_Neural_Networks_with_Stabilized_Spiking_ICCV_2023_paper.pdf)]
 - Masked Spiking Transformer (**ICCV 2023**). [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_Masked_Spiking_Transformer_ICCV_2023_paper.pdf)]
-- Adaptive Smoothing Gradient Learning for Spiking Neural Networks (**ICML 2023**). [[paper](https://openreview.net/pdf?id=GdkwSGTpbC)]
-- Surrogate Module Learning: Reduce the Gradient Error Accumulation in Training Spiking Neural Networks (**ICML 2023**). [[paper](https://openreview.net/pdf?id=zRkz4duLKp)] [[code](https://github.com/brain-intelligence-lab/surrogate_module_learning)]
 - Spatial-Temporal Self-Attention for Asynchronous Spiking Neural Networks (**IJCAI 2023**). [[paper](https://www.ijcai.org/proceedings/2023/0344.pdf)]
 - Learnable Surrogate Gradient for Direct Training Spiking Neural Networks (**IJCAI 2023**). [[paper](https://www.ijcai.org/proceedings/2023/0335.pdf)]
 - Enhancing Efficient Continual Learning with Dynamic Structure Development of Spiking Neural Networks (**IJCAI 2023**). [[paper](https://www.ijcai.org/proceedings/2023/0334.pdf)]
+- Adaptive Smoothing Gradient Learning for Spiking Neural Networks (**ICML 2023**). [[paper](https://openreview.net/pdf?id=GdkwSGTpbC)]
+- Surrogate Module Learning: Reduce the Gradient Error Accumulation in Training Spiking Neural Networks (**ICML 2023**). [[paper](https://openreview.net/pdf?id=zRkz4duLKp)] [[code](https://github.com/brain-intelligence-lab/surrogate_module_learning)]
 - Rate Gradient Approximation Attack Threats Deep Spiking Neural Networks (**CVPR 2023**). [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Bu_Rate_Gradient_Approximation_Attack_Threats_Deep_Spiking_Neural_Networks_CVPR_2023_paper.pdf)]
 - Constructing Deep Spiking Neural Networks from Artificial Neural Networks with Knowledge Distillation (**CVPR 2023**). [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Xu_Constructing_Deep_Spiking_Neural_Networks_From_Artificial_Neural_Networks_With_CVPR_2023_paper.pdf)]
 - Attention Spiking Neural Networks  (**TPAMI 2023**) .[[paper](https://ieeexplore.ieee.org/abstract/document/10032591)] [[code](https://github.com/fangwei123456/spikingjelly/pull/329)]
