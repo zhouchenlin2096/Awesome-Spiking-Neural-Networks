@@ -46,6 +46,8 @@ If you own or find some overlooked papers, you can add it to this document by pu
 - Deep Spiking Neural Networks with High Representation Similarity Model Visual Pathways of Macaque and Mouse (**AAAI 2023**). [[paper](https://arxiv.org/abs/2303.06060)]
 - ESL-SNNs: An Evolutionary Structure Learning Strategy for Spiking Neural Networks (**AAAI 2023**). [[paper](https://arxiv.org/pdf/2306.03693.pdf)]
 - Exploring Temporal Information Dynamics in Spiking Neural Networks (**AAAI 2023**). [[paper](https://arxiv.org/pdf/2211.14406.pdf)] [[code](https://github.com/Intelligent-Computing-Lab-Yale/Exploring-Temporal-Information-Dynamics-in-Spiking-Neural-Networks)]
+- Scaling Up Dynamic Graph Representation Learning via Spiking Neural Networks(**AAAI 2023**). [[paper](https://arxiv.org/pdf/2208.10364.pdf)] [[code](https://github.com/EdisonLeeeee/SpikeNet)]
+- Complex Dynamic Neurons Improved Spiking Transformer Network for Efficient Automatic Speech Recognition(**AAAI 2023**). [[paper](https://arxiv.org/pdf/2302.01194.pdf)] 
 
 **Arxiv**
 - Spike-driven Transformer [[paper](https://arxiv.org/pdf/2307.01694.pdf)]
