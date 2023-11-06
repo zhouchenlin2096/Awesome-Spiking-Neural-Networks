@@ -34,7 +34,7 @@ If you own or find some overlooked papers, you can add it to this document by pu
 - Heterogeneous neuronal and synaptic dynamics for spike-efficient unsupervised learning: Theory and design principles (**ICLR 2023**).[[paper](https://arxiv.org/pdf/2302.11618.pdf)]
 - Spiking Convolutional Neural Networks for Text Classification (**ICLR 2023**) .[[paper](https://openreview.net/pdf?id=pgU3k7QXuz0)]
 - Bridging the Gap between ANNs and SNNs by Calibrating Offset Spikes (**ICLR 2023**).[[paper](https://arxiv.org/pdf/2302.10685.pdf)] [[code](https://github.com/hzc1208/ANN2SNN_COS)]
-- SPIKFORMER: WHEN SPIKING NEURAL NETWORK MEETS TRANSFORMER (**ICLR 2023**) .[[paper](https://openreview.net/forum?id=frE4fUwz_h)] [[code](https://github.com/ZK-Zhou/spikformer)]
+- Spikformer: When Spiking Neural Network Meets Transformer (**ICLR 2023**) .[[paper](https://openreview.net/forum?id=frE4fUwz_h)] [[code](https://github.com/ZK-Zhou/spikformer)]
 - A Unified Framework of Soft Threshold Pruning [[paper](https://openreview.net/forum?id=cCFqcrq0d8)] 
 - Reducing ANN-SNN Conversion Error through Residual Membrane Potential [[paper](https://arxiv.org/abs/2302.02091)] [[code](https://github.com/hzc1208/ANN2SNN_SRP)]
 - Deep Spiking Neural Networks with High Representation Similarity Model Visual Pathways of Macaque and Mouse [[paper](https://arxiv.org/abs/2303.06060)]
