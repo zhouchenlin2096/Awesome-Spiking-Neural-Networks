@@ -16,7 +16,7 @@ If you own or find some overlooked papers, you can add it to this document by pu
 
 ### 2023
 
-**AAAI, ICLR, CVPR, IJCAI, ICML, ICCV, NeurIPS, TPAMI**
+**AAAI, ICLR, CVPR, IJCAI, ICML, ICCV, NeurIPS, TPAMI, Science Advances**
 - SpikingJelly: An open-source machine learning infrastructure platform for spike-based intelligence (**Science Advances 2023**). [[paper](https://www.science.org/doi/10.1126/sciadv.adi1480)] [[code](https://github.com/fangwei123456/spikingjelly)]
 - Spike-driven Transformer [[paper](https://arxiv.org/pdf/2307.01694.pdf)] [[code](https://github.com/BICLab/Spike-Driven-Transformer)]
 - Parallel Spiking Neurons with High Efficiency and Long-term Dependencies Learning Ability (**NeurIPS 2023**). [[paper](https://arxiv.org/abs/2304.12760)] [[code](https://github.com/fangwei123456/Parallel-Spiking-Neuron)]
