@@ -9,7 +9,7 @@ If you own or find some overlooked papers, you can add it to this document by pu
 
 [2023.10.8] Update SNN-related papers in CVPR 2023 (2 papers), IJCAI 2023(3), ICML 2023(2), and ICCV 2023 (10).
 
-[2023.7.25] Update SNN-related papers in ICLR 2023 (4 papers).
+[2023.7.25] Update SNN-related papers in ICLR 2023 (6 papers), AAAI 2023.
 
 
 ## Papers
@@ -41,11 +41,9 @@ If you own or find some overlooked papers, you can add it to this document by pu
 - Bridging the Gap between ANNs and SNNs by Calibrating Offset Spikes (**ICLR 2023**).[[paper](https://arxiv.org/pdf/2302.10685.pdf)] [[code](https://github.com/hzc1208/ANN2SNN_COS)]
 - Spikformer: When Spiking Neural Network Meets Transformer (**ICLR 2023**) .[[paper](https://openreview.net/forum?id=frE4fUwz_h)] [[code](https://github.com/ZK-Zhou/spikformer)]
 - A Unified Framework of Soft Threshold Pruning (**ICLR 2023**). [[paper](https://openreview.net/forum?id=cCFqcrq0d8)] [[code](https://github.com/Yanqi-Chen/LATS)]
-- Reducing ANN-SNN Conversion Error through Residual Membrane Potential [[paper](https://arxiv.org/abs/2302.02091)] [[code](https://github.com/hzc1208/ANN2SNN_SRP)]
-- Deep Spiking Neural Networks with High Representation Similarity Model Visual Pathways of Macaque and Mouse [[paper](https://arxiv.org/abs/2303.06060)]
-- Reducing ANN-SNN Conversion Error through Residual Membrane Potential [[paper](https://arxiv.org/abs/2302.02091)] [[paper](https://github.com/hzc1208/ANN2SNN_SRP)]
-- Bridging the Gap between ANNs and SNNs by Calibrating Offset Spikes [[paper](https://openreview.net/forum?id=PFbzoWZyZRX)] [[code](https://github.com/hzc1208/ANN2SNN_COS)]
-- A Unified Framework of Soft Threshold Pruning [[paper](https://openreview.net/forum?id=cCFqcrq0d8)]
+- Bridging the Gap between ANNs and SNNs by Calibrating Offset Spikes (**ICLR 2023**). [[paper](https://openreview.net/forum?id=PFbzoWZyZRX)] [[code](https://github.com/hzc1208/ANN2SNN_COS)]
+- Reducing ANN-SNN Conversion Error through Residual Membrane Potential (**AAAI 2023**). [[paper](https://arxiv.org/abs/2302.02091)] [[code](https://github.com/hzc1208/ANN2SNN_SRP)]
+- Deep Spiking Neural Networks with High Representation Similarity Model Visual Pathways of Macaque and Mouse (**AAAI 2023**). [[paper](https://arxiv.org/abs/2303.06060)]
 
 **Arxiv**
 - Spike-driven Transformer [[paper](https://arxiv.org/pdf/2307.01694.pdf)]
