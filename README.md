@@ -17,10 +17,11 @@ If you own or find some overlooked papers, you can add it to this document by pu
 ### 2023
 
 **AAAI, ICLR, CVPR, IJCAI, ICML, ICCV, NeurIPS, TPAMI**
+- Parallel Spiking Neurons with High Efficiency and Long-term Dependencies Learning Ability (**NeurIPS 2023**). [[paper](https://arxiv.org/abs/2304.12760)] [[code](https://github.com/fangwei123456/Parallel-Spiking-Neuron)]
+- Spike-driven Transformer [[paper](https://arxiv.org/pdf/2307.01694.pdf)] [[code](https://github.com/BICLab/Spike-Driven-Transformer)]
 - Temporal Conditioning Spiking Latent Variable Models of the Neural Response to Natural Visual Scenes (**NeurIPS 2023**). [[paper](https://arxiv.org/pdf/2306.12045.pdf)]
 - SEENN: Towards Temporal Spiking Early Exit Neural Networks (**NeurIPS 2023**). [[paper](https://openreview.net/pdf?id=mbaN0Y0QTw)]
 - EICIL: Joint Excitatory Inhibitory Cycle Iteration Learning for Deep Spiking Neural Networks (**NeurIPS 2023**). [[paper](https://openreview.net/pdf?id=OMDgOjdqoZ)]
-- Parallel Spiking Neurons with High Efficiency and Long-term Dependencies Learning Ability (**NeurIPS 2023**). [[paper](https://arxiv.org/abs/2304.12760)] [[code](https://github.com/fangwei123456/Parallel-Spiking-Neuron)]
 - Addressing the speed-accuracy simulation trade-off for adaptive spiking neurons (**NeurIPS 2023**). [[paper](https://openreview.net/pdf?id=Ht79ZTVMsn)]
 - Enhancing Adaptive History Reserving by Spiking Convolutional Block Attention Module in Recurrent Neural Networks (**NeurIPS 2023**). [[paper](https://openreview.net/pdf?id=aGZp61S9Lj)]
 - Trial matching: capturing variability with data-constrained spiking neural networks (**NeurIPS 2023**). [[paper](https://arxiv.org/abs/2306.03603)]
@@ -60,7 +61,6 @@ If you own or find some overlooked papers, you can add it to this document by pu
 - Complex Dynamic Neurons Improved Spiking Transformer Network for Efficient Automatic Speech Recognition(**AAAI 2023**). [[paper](https://arxiv.org/pdf/2302.01194.pdf)] 
 
 **Arxiv**
-- Spike-driven Transformer [[paper](https://arxiv.org/pdf/2307.01694.pdf)]
 - Enhancing the Performance of Transformer-based Spiking Neural Networks by Improved Downsampling with Precise Gradient Backpropagation [[paper](https://arxiv.org/abs/2305.05954)] [[code](https://github.com/zhouchenlin2096/Spikingformer-CML)]
 - Spikingformer: Spike-driven Residual Learning for Transformer-based Spiking Neural Network [[paper](https://arxiv.org/abs/2304.11954)] [[code](https://github.com/zhouchenlin2096/Spikingformer)]
 - Training Full Spike Neural Networks via Auxiliary Accumulation Pathway [[paper](https://arxiv.org/pdf/2301.11929.pdf)]
