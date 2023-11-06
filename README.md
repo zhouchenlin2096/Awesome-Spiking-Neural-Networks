@@ -7,7 +7,7 @@ If you own or find some overlooked papers, you can add it to this document by pu
 ## News
 [2023.11.6] Update SNN-related papers in NeurIPS 2023 (12 papers).
 
-[2023.10.8] Update SNN-related papers in CVPR 2023 (2 papers), IJCAI 2023 ( 3), ICML 2023 ( 2), and ICCV 2023 ( 10).
+[2023.10.8] Update SNN-related papers in CVPR 2023 (2 papers), IJCAI 2023 (3), ICML 2023 (2), and ICCV 2023 (10).
 
 [2023.7.25] Update SNN-related papers in ICLR 2023 (6 papers), AAAI 2023 (6 papers).
 
