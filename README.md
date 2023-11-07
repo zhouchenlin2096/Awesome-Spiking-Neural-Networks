@@ -29,7 +29,7 @@ If you own or find some overlooked papers, you can add it to this document by pu
 - Evolving Connectivity for Recurrent Spiking Neural Networks (**NeurIPS 2023**). [[paper](https://arxiv.org/pdf/2305.17650.pdf)]
 - SparseProp: Efficient Event-Based Simulation and Training of Sparse Recurrent Spiking Neural Networks (**NeurIPS 2023**). [[paper](https://openreview.net/pdf?id=yzZbwQPkmP)] 
 - Spiking PointNet: Spiking Neural Networks for Point Clouds (**NeurIPS 2023**). [[paper](https://arxiv.org/pdf/2310.06232v1.pdf)] [[code](https://github.com/dayongren/spiking-pointnet)]
-- Exploring Loss Functions for Time-based Training Strategy in Spiking Neural Networks (**NeurIPS 2023**). 
+- Exploring Loss Functions for Time-based Training Strategy in Spiking Neural Networks (**NeurIPS 2023**). [[paper](https://openreview.net/pdf?id=8IvW2k5VeA)]
 - Membrane Potential Batch Normalization for Spiking Neural Networks (**ICCV 2023**). [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Guo_Membrane_Potential_Batch_Normalization_for_Spiking_Neural_Networks_ICCV_2023_paper.pdf)]
 - Unleashing the Potential of Spiking Neural Networks with Dynamic Confidence (**ICCV 2023**). [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_Unleashing_the_Potential_of_Spiking_Neural_Networks_with_Dynamic_Confidence_ICCV_2023_paper.pdf)]
 - RMP-Loss: Regularizing Membrane Potential Distribution for Spiking Neural Networks	(**ICCV 2023**). [[paper](https://arxiv.org/abs/2308.06787)]
