@@ -68,6 +68,9 @@ If you own or find some overlooked SNN papers, you can add them to this document
 - MSS-DepthNet: Depth Prediction with Multi-Step Spiking Neural Network [[paper](https://arxiv.org/abs/2211.12156)]
 - SpikeGPT: Generative Pre-trained Language Model with Spiking Neural Networks [[paper](https://arxiv.org/abs/2302.13939)] [[code](https://github.com/ridgerchu/SpikeGPT)]
 - Auto-Spikformer: Spikformer Architecture Search [[paper](https://arxiv.org/pdf/2306.00807.pdf)]
+- 
+**Review**
+- Direct Learning-Based Deep Spiking Neural Networks: A Review [[paper](https://arxiv.org/pdf/2305.19725.pdf)]
 
 
 ### 2022
