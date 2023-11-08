@@ -2,7 +2,7 @@
 
 Collect some spiking neural network papers & codes.  (**Actively keep updating**)
 
-If you own or find some overlooked SNN papers, you can add them to this document by pull request (recommended). 
+If you own or find some overlooked SNN papers, you can add them to this document by pull request. 
 
 ## News
 [2023.11.6] Update SNN-related papers in NeurIPS 2023 (12 papers).
