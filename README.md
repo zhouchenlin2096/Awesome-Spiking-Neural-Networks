@@ -14,7 +14,8 @@ If you own or find some overlooked SNN papers, you can add them to this document
 
 ## Papers
 ### 2024
-.......
+Ing
+
 
 ### 2023
 
