@@ -14,8 +14,8 @@ If you own or find some overlooked SNN papers, you can add them to this document
 
 ## Papers
 ### 2024
-- Ing
-
+**Arxiv**
+- Spikformer V2: Join the High Accuracy Club on ImageNet with an SNN Ticket. [[paper](https://arxiv.org/pdf/2401.02020.pdf)] [[code](https://github.com/ZK-Zhou/spikformer)]
 
 ### 2023
 
