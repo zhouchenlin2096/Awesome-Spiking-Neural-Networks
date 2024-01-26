@@ -11,7 +11,7 @@ If you own or find some overlooked SNN papers, you can add them to this document
 
 [2023.10.08] Update SNN-related papers in CVPR 2023 (2 papers), ICML 2023 (2), IJCAI 2023 (3), and ICCV 2023 (10).
 
-[2023.6.25] Update SNN-related papers in ICLR 2023 (6 papers), AAAI 2023 (6 papers).
+[2023.06.25] Update SNN-related papers in ICLR 2023 (6 papers), AAAI 2023 (6 papers).
 
 
 ## Papers
