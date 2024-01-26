@@ -74,7 +74,7 @@ If you own or find some overlooked SNN papers, you can add them to this document
 - Advancing Spiking Neural Networks Towards Deep Residual Learning [[paper](https://arxiv.org/pdf/2112.08954.pdf)]
 
 **Review**
-- Direct Learning-Based Deep Spiking Neural Networks: A Review [[paper](https://arxiv.org/pdf/2305.19725.pdf)]
+- Direct Learning-Based Deep Spiking Neural Networks: A Review (**Frontiers in Neuroscience 2023**) [[paper](https://arxiv.org/pdf/2305.19725.pdf)]
 
 
 ### 2022
