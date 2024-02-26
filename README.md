@@ -23,9 +23,9 @@ If you own or find some overlooked SNN papers, you can add them to this document
 - Gated Attention Coding for Training High-performance and Efficient Spiking Neural Networks (**AAAI 2024**).  [[paper](https://arxiv.org/pdf/2308.06582.pdf)]
 - SpikingBERT: Distilling BERT to Train Spiking Language Models Using Implicit Differentiation (**AAAI 2024**).  [[paper](https://arxiv.org/pdf/2308.10873.pdf)] [[code](https://github.com/NeuroCompLab-psu/SpikingBERT)]
 - TC-LIF: A Two-Compartment Spiking Neuron Model for Long-Term Sequential Modelling (**AAAI 2024**).  [[paper](https://arxiv.org/pdf/2308.13250.pdf)] [[code](https://github.com/ZhangShimin1/TC-LIF)]
-- An Efficient Knowledge Transfer Strategy for Spiking Neural Networks from Static to Event Domain (**AAAI 2024**).  [[paper](https://arxiv.org/pdf/2303.13077.pdf)] [[code](https://github.com/Brain-Cog-Lab/Transfer-for-DVS)]
 - Shrinking Your TimeStep: Towards Low-Latency Neuromorphic Object Recognition with Spiking Neural Networks (**AAAI 2024**).  [[paper](https://arxiv.org/pdf/2401.01912.pdf)]
 - Dynamic Spiking Graph Neural Networks (**AAAI 2024**).  [[paper](https://arxiv.org/pdf/2401.05373.pdf)]
+- An Efficient Knowledge Transfer Strategy for Spiking Neural Networks from Static to Event Domain (**AAAI 2024**).  [[paper](https://arxiv.org/pdf/2303.13077.pdf)] [[code](https://github.com/Brain-Cog-Lab/Transfer-for-DVS)]
 
 
 
