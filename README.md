@@ -17,6 +17,17 @@ If you own or find some overlooked SNN papers, you can add them to this document
 ## Papers
 ### 2024
 **AAAI, ICLR**
+-  Learning Delays in Spiking Neural Networks using Dilated Convolutions with Learnable Spacings
+- Threaten Spiking Neural Networks through Combining Rate and Temporal Information (**ICLR 2024**). [[paper](https://openreview.net/pdf?id=xv8iGxENyI)] [[code](https://github.com/hzc1208/HART_Attack)]
+- TAB: Temporal Accumulated Batch Normalization in Spiking Neural Networks (**ICLR 2024**). [[paper](https://openreview.net/forum?id=k1wlmtPGLq&noteId=p5M9gOLAOf)] 
+- Certified Adversarial Robustness for Rate Encoded Spiking Neural Networks (**ICLR 2024**). [[paper](https://openreview.net/forum?id=5bNYf0CqxY)] 
+- Bayesian Bi-clustering of Neural Spiking Activity with Latent Structures (**ICLR 2024**). [[paper](https://openreview.net/pdf?id=ZYm1Ql6udy)] 
+- Adaptive deep spiking neural network with global-local learning via balanced excitatory and inhibitory mechanism (**ICLR 2024**). [[paper](https://openreview.net/pdf?id=wpnlc2ONu0)] 
+- Hebbian Learning based Orthogonal Projection for Continual Learning of Spiking Neural Networks (**ICLR 2024**). [[paper](https://arxiv.org/pdf/2402.11984.pdf)] [[code](https://github.com/pkuxmq/HLOP-SNN)]
+- A Progressive Training Framework for Spiking Neural Networks with Learnable Multi-hierarchical Model (**ICLR 2024**). [[paper](https://openreview.net/pdf?id=g52tgL8jy6)] [[code](https://github.com/hzc1208/STBP_LMH)]
+- LMUFormer: Low Complexity Yet Powerful Spiking Model With Legendre Memory Units (**ICLR 2024**). [[paper](https://arxiv.org/pdf/2402.04882.pdf)] [[code](https://github.com/zeyuliu1037/LMUFormer)]
+- Spike-driven Transformer V2: Meta Spiking Neural Network Architecture Inspiring the Design of Next-generation Neuromorphic Chips (**ICLR 2024**). [[paper](https://openreview.net/pdf?id=1SIBN5Xyw7)] [[code](https://github.com/BICLab/Spike-Driven-Transformer-V2)]
+- Can we get the best of both Binary Neural Networks and Spiking Neural Networks for Efficient Computer Vision? (**ICLR 2024**). [[paper](https://openreview.net/pdf?id=lGUyAuuTYZ)] [[code](https://github.com/godatta/Ultra-Low-Latency-SNN)]
 - A Graph is Worth 1-bit Spikes: When Graph Contrastive Learning Meets Spiking Neural Networks (**ICLR 2024**).  [[paper](https://openreview.net/pdf?id=LnLySuf1vp)] [[code](https://github.com/EdisonLeeeee/SpikeGCL)]
 - Ternary Spike: Learning Ternary Spikes for Spiking Neural Networks (**AAAI 2024**).  [[paper](https://arxiv.org/pdf/2312.06372.pdf)] [[code](https://github.com/yfguo91/Ternary-Spike)]
 - Memory-Efficient Reversible Spiking Neural Networks (**AAAI 2024**).  [[paper](https://arxiv.org/pdf/2312.07922.pdf)] [[code](https://github.com/mi804/RevSNN)]
