@@ -17,7 +17,12 @@ If you own or find some overlooked SNN papers, you can add them to this document
 ## Papers
 ### 2024
 **AAAI, ICLR**
--  Learning Delays in Spiking Neural Networks using Dilated Convolutions with Learnable Spacings
+- Towards Energy Efficient Spiking Neural Networks: An Unstructured Pruning Framework  (**ICLR 2024**). [[paper](https://openreview.net/forum?id=eoSeaK4QJo&referrer=%5Bthe%20profile%20of%20Zecheng%20Hao%5D(%2Fprofile%3Fid%3D~Zecheng_Hao1))]
+- Online Stabilization of Spiking Neural Networks  (**ICLR 2024**). [[paper](https://openreview.net/forum?id=CIj1CVbkpr)]
+- SpikePoint: An Efficient Point-based Spiking Neural Network for Event Cameras Action Recognition (**ICLR 2024**). [[paper](https://arxiv.org/pdf/2310.07189.pdf)]
+- Spatio-Temporal Approximation: A Training-Free SNN Conversion for Transformers  (**ICLR 2024**). [[paper](https://openreview.net/pdf?id=XrunSYwoLr)]
+- Sparse Spiking Neural Network: Exploiting Heterogeneity in Timescales for Pruning Recurrent SNN (**ICLR 2024**). [[paper](https://openreview.net/pdf?id=0jsfesDZDq)]
+- Learning Delays in Spiking Neural Networks using Dilated Convolutions with Learnable Spacings (**ICLR 2024**). [[paper](https://openreview.net/pdf?id=4r2ybzJnmN)] [[code](https://github.com/Thvnvtos/SNN-delays)]
 - Threaten Spiking Neural Networks through Combining Rate and Temporal Information (**ICLR 2024**). [[paper](https://openreview.net/pdf?id=xv8iGxENyI)] [[code](https://github.com/hzc1208/HART_Attack)]
 - TAB: Temporal Accumulated Batch Normalization in Spiking Neural Networks (**ICLR 2024**). [[paper](https://openreview.net/forum?id=k1wlmtPGLq&noteId=p5M9gOLAOf)] 
 - Certified Adversarial Robustness for Rate Encoded Spiking Neural Networks (**ICLR 2024**). [[paper](https://openreview.net/forum?id=5bNYf0CqxY)] 
