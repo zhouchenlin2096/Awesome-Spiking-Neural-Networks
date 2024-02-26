@@ -16,6 +16,10 @@ If you own or find some overlooked SNN papers, you can add them to this document
 
 ## Papers
 ### 2024
+**AAAI, ICLR**
+- A Graph is Worth 1-bit Spikes: When Graph Contrastive Learning Meets Spiking Neural Networks (**ICLR 2024**).  [[paper](https://openreview.net/pdf?id=LnLySuf1vp)] [[code](https://openreview.net/pdf?id=LnLySuf1vp)]
+
+
 **Arxiv**
 - Spikformer V2: Join the High Accuracy Club on ImageNet with an SNN Ticket. [[paper](https://arxiv.org/pdf/2401.02020.pdf)] [[code](https://github.com/ZK-Zhou/spikformer)]
 
