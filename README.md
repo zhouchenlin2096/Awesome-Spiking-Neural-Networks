@@ -5,7 +5,7 @@ Collect some spiking neural network papers & codes.  (**Actively keep updating**
 If you own or find some overlooked SNN papers, you can add them to this document by pull request. 
 
 ## News
-[2024.02.26] Update SNN-related papers in ICLR 2024 (17 papers), AAAI 2024 (8 papers), Frontiers in Neuroscience 2024.
+[2024.02.26] Update SNN-related papers in ICLR 2024 (17 papers), AAAI 2024 (8 papers).
 
 [2023.12.31] Update SNN-related papers in TPAMI 2023, Frontiers in Neuroscience 2023.
 
@@ -18,7 +18,8 @@ If you own or find some overlooked SNN papers, you can add them to this document
 
 ## Papers
 ### 2024
-**AAAI, ICLR**
+**AAAI, ICLR, Frontiers in Neuroscience**
+- SGLFormer: Spiking Global-Local-Fusion Transformer with high performance (Frontiers in Neuroscience 2024).[[paper](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2024.1371290/full)] [[code](https://github.com/ZhangHanN1/SGLFormer)]
 - Towards Energy Efficient Spiking Neural Networks: An Unstructured Pruning Framework  (**ICLR 2024**). [[paper](https://openreview.net/forum?id=eoSeaK4QJo&referrer=%5Bthe%20profile%20of%20Zecheng%20Hao%5D(%2Fprofile%3Fid%3D~Zecheng_Hao1))]
 - Online Stabilization of Spiking Neural Networks  (**ICLR 2024**). [[paper](https://openreview.net/forum?id=CIj1CVbkpr)]
 - SpikePoint: An Efficient Point-based Spiking Neural Network for Event Cameras Action Recognition (**ICLR 2024**). [[paper](https://arxiv.org/pdf/2310.07189.pdf)]
