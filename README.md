@@ -49,6 +49,7 @@ If you own or find some overlooked SNN papers, you can add them to this document
 
 
 **Arxiv**
+- QKFormer: Hierarchical Spiking Transformer using Q-K Attention. [[paper](https://arxiv.org/pdf/2403.16552.pdf)] [[code](https://github.com/zhouchenlin2096/QKFormer)]
 - Spikformer V2: Join the High Accuracy Club on ImageNet with an SNN Ticket. [[paper](https://arxiv.org/pdf/2401.02020.pdf)] [[code](https://github.com/ZK-Zhou/spikformer)]
 - SpikeNAS: A Fast Memory-Aware Neural Architecture Search Framework for Spiking Neural Network Systems. [[paper](https://arxiv.org/pdf/2402.11322.pdf)]
 - Astrocyte-Enabled Advancements in Spiking Neural Networks for Large Language Modeling. [[paper](https://arxiv.org/pdf/2312.07625v2.pdf)]
