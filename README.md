@@ -55,6 +55,10 @@ If you own or find some overlooked SNN papers, you can add them to this document
 - SpikeNAS: A Fast Memory-Aware Neural Architecture Search Framework for Spiking Neural Network Systems. [[paper](https://arxiv.org/pdf/2402.11322.pdf)]
 - Astrocyte-Enabled Advancements in Spiking Neural Networks for Large Language Modeling. [[paper](https://arxiv.org/pdf/2312.07625v2.pdf)]
 
+**Review**
+- Direct Training High-Performance Deep Spiking Neural Networks: A Review of Theories and Methods. [[paper](https://arxiv.org/pdf/2405.04289)] [[link](https://github.com/zhouchenlin2096/Awesome-Spiking-Neural-Networks)]
+
+
 ### 2023
 
 **AAAI, ICLR, CVPR, ICML, IJCAI, ICCV, NeurIPS, TPAMI, Science Advances**
