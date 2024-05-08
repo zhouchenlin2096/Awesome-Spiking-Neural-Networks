@@ -18,6 +18,10 @@ If you own or find some overlooked SNN papers, you can add them to this document
 
 ## Papers
 ### 2024
+
+**Review**
+- Direct Training High-Performance Deep Spiking Neural Networks: A Review of Theories and Methods. [[paper](https://arxiv.org/pdf/2405.04289)] [[link](https://github.com/zhouchenlin2096/Awesome-Spiking-Neural-Networks)]
+
 **AAAI, ICLR, Frontiers in Neuroscience**
 - SpikingResformer: Bridging ResNet and Vision Transformer in Spiking Neural Networks (**CVPR 2024**). [[paper](https://arxiv.org/abs/2403.14302)] [[code](https://github.com/xyshi2000/SpikingResformer)]
 - SGLFormer: Spiking Global-Local-Fusion Transformer with high performance (**Frontiers in Neuroscience 2024**).[[paper](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2024.1371290/full)] [[code](https://github.com/ZhangHanN1/SGLFormer)]
@@ -55,11 +59,11 @@ If you own or find some overlooked SNN papers, you can add them to this document
 - SpikeNAS: A Fast Memory-Aware Neural Architecture Search Framework for Spiking Neural Network Systems. [[paper](https://arxiv.org/pdf/2402.11322.pdf)]
 - Astrocyte-Enabled Advancements in Spiking Neural Networks for Large Language Modeling. [[paper](https://arxiv.org/pdf/2312.07625v2.pdf)]
 
-**Review**
-- Direct Training High-Performance Deep Spiking Neural Networks: A Review of Theories and Methods. [[paper](https://arxiv.org/pdf/2405.04289)] [[link](https://github.com/zhouchenlin2096/Awesome-Spiking-Neural-Networks)]
-
 
 ### 2023
+
+**Review**
+- Direct Learning-Based Deep Spiking Neural Networks: A Review (**Frontiers in Neuroscience 2023**). [[paper](https://arxiv.org/pdf/2305.19725.pdf)]
 
 **AAAI, ICLR, CVPR, ICML, IJCAI, ICCV, NeurIPS, TPAMI, Science Advances**
 - SpikingJelly: An open-source machine learning infrastructure platform for spike-based intelligence (**Science Advances 2023**). [[paper](https://www.science.org/doi/10.1126/sciadv.adi1480)] [[code](https://github.com/fangwei123456/spikingjelly)]
@@ -114,9 +118,6 @@ If you own or find some overlooked SNN papers, you can add them to this document
 - SpikeGPT: Generative Pre-trained Language Model with Spiking Neural Networks [[paper](https://arxiv.org/abs/2302.13939)] [[code](https://github.com/ridgerchu/SpikeGPT)]
 - Auto-Spikformer: Spikformer Architecture Search [[paper](https://arxiv.org/pdf/2306.00807.pdf)]
 - Advancing Spiking Neural Networks Towards Deep Residual Learning [[paper](https://arxiv.org/pdf/2112.08954.pdf)]
-
-**Review**
-- Direct Learning-Based Deep Spiking Neural Networks: A Review (**Frontiers in Neuroscience 2023**). [[paper](https://arxiv.org/pdf/2305.19725.pdf)]
 
 
 ### 2022
