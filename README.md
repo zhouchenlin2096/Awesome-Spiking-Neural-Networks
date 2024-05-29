@@ -22,7 +22,14 @@ If you own or find some overlooked SNN papers, you can add them to this document
 **Review**
 - Direct Training High-Performance Deep Spiking Neural Networks: A Review of Theories and Methods. [[paper](https://arxiv.org/pdf/2405.04289)] 
 
-**AAAI, ICLR, Frontiers in Neuroscience, CVPR**
+**AAAI, ICLR, Frontiers in Neuroscience, CVPR, ICML, IJCAI**
+- High-Performance Temporal Reversible Spiking Neural Networks $O(L)$ with Training Memory and $O(1)$ Inference Cost (**ICML 2024**). [[paper](https://arxiv.org/pdf/2405.16466)]
+- Towards Efficient Spiking Transformer: a Token Sparsification Framework for Training and Inference Acceleration (**ICML 2024**). [[paper](https://icml.cc/virtual/2024/poster/32674)]
+- SpikeLM: Towards General Spike-Driven Language Modeling via Elastic Bi-Spiking Mechanisms (**ICML 2024**). [[paper](https://icml.cc/virtual/2024/poster/35024)]
+- Sign Gradient Descent-based Neuronal Dynamics: ANN-to-SNN Conversion Beyond ReLU Network (**ICML 2024**). [[paper](https://icml.cc/virtual/2024/poster/33242)]
+- Enhancing Adversarial Robustness in SNNs with Sparse Gradients (**ICML 2024**). [[paper](https://icml.cc/virtual/2024/poster/34066)]
+- SpikeZIP-TF: Conversion is All You Need for Transformer-based SNN (**ICML 2024**). [[paper](https://icml.cc/virtual/2024/poster/34194)]
+- Are Conventional SNNs Really Efficient? A Perspective from Network Quantization  (**CVPR 2024**). [[paper](https://arxiv.org/pdf/2311.10802)]
 - SFOD: Spiking Fusion Object Detector (**CVPR 2024**). [[paper](https://arxiv.org/pdf/2403.15192)] [[code](https://github.com/yimeng-fan/SFOD)]
 - SpikingResformer: Bridging ResNet and Vision Transformer in Spiking Neural Networks (**CVPR 2024**). [[paper](https://arxiv.org/abs/2403.14302)] [[code](https://github.com/xyshi2000/SpikingResformer)]
 - SGLFormer: Spiking Global-Local-Fusion Transformer with high performance (**Frontiers in Neuroscience 2024**).[[paper](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2024.1371290/full)] [[code](https://github.com/ZhangHanN1/SGLFormer)]
