@@ -26,7 +26,7 @@ If you own or find some overlooked SNN papers, you can add them to this document
 - EC-SNN: Splitting Deep Spiking Neural Networks on Edge Devices (**IJCAI 2024**). [[code](https://github.com/AmazingDD/EC-SNN)] 
 - One-step Spiking Transformer with a Linear Complexity (**IJCAI 2024**).
 - TIM: An Efficient Temporal Interaction Module for Spiking Transformer (**IJCAI 2024**). [[paper](https://arxiv.org/pdf/2401.11687)] [[code](https://github.com/BrainCog-X/Brain-Cog/tree/main/examples/TIM)] 
-- Learning a Spiking Neural Network for Efficient Image Deraining (**IJCAI 2024**). [[paper](Learning A Spiking Neural Network for Efficient Image Deraining)] [[code](https://github.com/MingTian99/ESDNet)] 
+- Learning a Spiking Neural Network for Efficient Image Deraining (**IJCAI 2024**). [[code](https://github.com/MingTian99/ESDNet)] 
 - LitE-SNN: Designing Lightweight and Efficient Spiking Neural Network through Spatial-Temporal Compressive Network Search and Joint Optimization (**IJCAI 2024**). [[paper](https://arxiv.org/pdf/2401.14652)] 
 - Temporal Spiking Neural Networks with Synaptic Delay for Graph Reasoning (**ICML 2024**). [[paper](https://icml.cc/virtual/2024/poster/35073)] 
 - Towards efficient deep spiking neural networks construction with spiking activity based pruning (**ICML 2024**). [[paper](https://icml.cc/virtual/2024/poster/33505)] 
