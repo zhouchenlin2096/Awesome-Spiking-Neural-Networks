@@ -35,7 +35,7 @@ If you own or find some overlooked SNN papers, you can add them to this document
 - Robust Stable Spiking Neural Networks (**ICML 2024**). [[paper](https://icml.cc/virtual/2024/poster/33217)]
 - CLIF: Complementary Leaky Integrate-and-Fire Neuron for Spiking Neural Networks (**ICML 2024**). [[paper](https://arxiv.org/pdf/2402.04663)]
 - NDOT: Neuronal Dynamics-based Online Training for Spiking Neural Networks  (**ICML 2024**). [[paper](https://icml.cc/virtual/2024/poster/33481)]
-- High-Performance Temporal Reversible Spiking Neural Networks $O(L)$ with Training Memory and $O(1)$ Inference Cost (**ICML 2024**). [[paper](https://arxiv.org/pdf/2405.16466)]
+- High-Performance Temporal Reversible Spiking Neural Networks with $O(L)$ Training Memory and $O(1)$ Inference Cost (**ICML 2024**). [[paper](https://arxiv.org/pdf/2405.16466)]
 - Towards Efficient Spiking Transformer: a Token Sparsification Framework for Training and Inference Acceleration (**ICML 2024**). [[paper](https://icml.cc/virtual/2024/poster/32674)]
 - SpikeLM: Towards General Spike-Driven Language Modeling via Elastic Bi-Spiking Mechanisms (**ICML 2024**). [[paper](https://icml.cc/virtual/2024/poster/35024)]
 - Sign Gradient Descent-based Neuronal Dynamics: ANN-to-SNN Conversion Beyond ReLU Network (**ICML 2024**). [[paper](https://icml.cc/virtual/2024/poster/33242)]
