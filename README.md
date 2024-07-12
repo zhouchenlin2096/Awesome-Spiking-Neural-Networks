@@ -20,7 +20,7 @@ If you own or find some overlooked SNN papers, you can add them to this document
 ### 2024
 
 **Review**
-- Direct Training High-Performance Deep Spiking Neural Networks: A Review of Theories and Methods. [[paper](https://arxiv.org/pdf/2405.04289)] 
+- Direct Training High-Performance Deep Spiking Neural Networks: A Review of Theories and Methods (**Frontiers in Neuroscience 2024**). [[paper](https://arxiv.org/abs/2405.04289v2)] 
 
 **AAAI, ICLR, Frontiers in Neuroscience, CVPR, ICML, IJCAI**
 - EC-SNN: Splitting Deep Spiking Neural Networks on Edge Devices (**IJCAI 2024**). [[code](https://github.com/AmazingDD/EC-SNN)] 
