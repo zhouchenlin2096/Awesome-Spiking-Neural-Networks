@@ -23,6 +23,7 @@ If you own or find some overlooked SNN papers, you can add them to this document
 - Direct Training High-Performance Deep Spiking Neural Networks: A Review of Theories and Methods (**Frontiers in Neuroscience 2024**). [[paper]](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2024.1383844/full) [[arxiv](https://arxiv.org/abs/2405.04289v2)] 
 
 **AAAI, ICLR, Frontiers in Neuroscience, CVPR, ICML, IJCAI**
+- Integer-Valued Training and Spike-Driven Inference Spiking Neural Network for High-performance and Energy-efficient Object Detection (**ECCV 2024**). [[paper](https://arxiv.org/pdf/2407.20708)]
 - EC-SNN: Splitting Deep Spiking Neural Networks on Edge Devices (**IJCAI 2024**). [[code](https://github.com/AmazingDD/EC-SNN)] 
 - One-step Spiking Transformer with a Linear Complexity (**IJCAI 2024**).
 - TIM: An Efficient Temporal Interaction Module for Spiking Transformer (**IJCAI 2024**). [[paper](https://arxiv.org/pdf/2401.11687)] [[code](https://github.com/BrainCog-X/Brain-Cog/tree/main/examples/TIM)] 
