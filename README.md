@@ -22,7 +22,9 @@ If you own or find some overlooked SNN papers, you can add them to this document
 **Review**
 - Direct Training High-Performance Deep Spiking Neural Networks: A Review of Theories and Methods (**Frontiers in Neuroscience 2024**). [[paper]](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2024.1383844/full) [[arxiv](https://arxiv.org/abs/2405.04289v2)] 
 
-**AAAI, ICLR, Frontiers in Neuroscience, CVPR, ICML, IJCAI**
+**NeurIPS, AAAI, ICLR, Frontiers in Neuroscience, CVPR, ICML, IJCAI**
+- Advancing Spiking Neural Networks for Sequential Modeling with Central Pattern Generators (**NeurIPS 2024**). [[paper](https://arxiv.org/abs/2405.14362)] [[code](https://github.com/microsoft/SeqSNN)]
+- QKFormer: Hierarchical Spiking Transformer using Q-K Attention (**NeurIPS 2024**). [[paper](https://arxiv.org/abs/2403.16552v2)] [[code](https://github.com/zhouchenlin2096/QKFormer)]
 - Integer-Valued Training and Spike-Driven Inference Spiking Neural Network for High-performance and Energy-efficient Object Detection (**ECCV 2024**). [[paper](https://arxiv.org/pdf/2407.20708)]
 - EC-SNN: Splitting Deep Spiking Neural Networks on Edge Devices (**IJCAI 2024**). [[code](https://github.com/AmazingDD/EC-SNN)] 
 - One-step Spiking Transformer with a Linear Complexity (**IJCAI 2024**).
