@@ -27,6 +27,13 @@ If you own or find some overlooked SNN papers, you can add them to this document
 - Advancing Spiking Neural Networks for Sequential Modeling with Central Pattern Generators (**NeurIPS 2024**). [[paper](https://arxiv.org/abs/2405.14362)] [[code](https://github.com/microsoft/SeqSNN)]
 - QKFormer: Hierarchical Spiking Transformer using Q-K Attention (**NeurIPS 2024**). [[paper](https://arxiv.org/abs/2403.16552v2)] [[code](https://github.com/zhouchenlin2096/QKFormer)]
 - Integer-Valued Training and Spike-Driven Inference Spiking Neural Network for High-performance and Energy-efficient Object Detection (**ECCV 2024**). [[paper](https://arxiv.org/pdf/2407.20708)]
+- Spiking Wavelet Transformer (**ECCV 2024**). [[paper](https://arxiv.org/pdf/2403.11138)] [[code](https://github.com/bic-L/Spiking-Wavelet-Transformer)]
+- Efficient Training of Spiking Neural Networks with Multi-Parallel Implicit Stream Architecture (**ECCV 2024**). [[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05068.pdf)] [[code](https://github.com/kiritozc/MPIS-SNNs)]
+- Asynchronous Bioplausible Neuron for Spiking Neural Networks for Event-Based Vision (**ECCV 2024**). [[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08133.pdf)] 
+- BKDSNN: Enhancing the Performance of Learning-based Spiking Neural Networks Training with Blurred Knowledge Distillation (**ECCV 2024**). [[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06649.pdf)] [[code](https://github.com/Intelligent-Computing-Research-Group/BKDSNN)]
+- Exploring Vulnerabilities in Spiking Neural Networks: Direct Adversarial Attacks on Raw Event Data (**ECCV 2024**). [[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/09164.pdf)]
+- EAS-SNN: End-to-End Adaptive Sampling and Representation for Event-based Detection with Recurrent Spiking Neural Networks (**ECCV 2024**). [[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07766.pdf)] [[code](https://github.com/Windere/EAS-SNN)]
+- Spike-Temporal Latent Representation for Energy-Efficient Event-to-Video Reconstruction (**ECCV 2024**). [[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05843.pdf)]
 - EC-SNN: Splitting Deep Spiking Neural Networks on Edge Devices (**IJCAI 2024**). [[code](https://github.com/AmazingDD/EC-SNN)] 
 - One-step Spiking Transformer with a Linear Complexity (**IJCAI 2024**).
 - TIM: An Efficient Temporal Interaction Module for Spiking Transformer (**IJCAI 2024**). [[paper](https://arxiv.org/pdf/2401.11687)] [[code](https://github.com/BrainCog-X/Brain-Cog/tree/main/examples/TIM)] 
