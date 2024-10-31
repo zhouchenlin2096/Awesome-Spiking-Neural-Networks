@@ -5,6 +5,8 @@ Collect some spiking neural network papers & codes.  (**Actively keep updating**
 If you own or find some overlooked SNN papers, you can add them to this document by pull request. 
 
 ## News
+[2024.10.31] Update SNN-related papers in ACM MM 2024 (5 papers).
+
 [2024.10.15] Update SNN-related papers in ECCV 2024 (8 papers).
 
 [2024.05.29] Update SNN-related papers in ICLR 2024 (17 papers), AAAI 2024 (8 papers), CVPR 2024 (3 papers), ICML 2024 (13 papers), IJCAI 2024 (5 papers).
@@ -24,11 +26,15 @@ If you own or find some overlooked SNN papers, you can add them to this document
 **Review**
 - Direct Training High-Performance Deep Spiking Neural Networks: A Review of Theories and Methods (**Frontiers in Neuroscience 2024**). [[paper]](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2024.1383844/full) [[arxiv](https://arxiv.org/abs/2405.04289v2)] 
 
-**NeurIPS, AAAI, ICLR, Frontiers in Neuroscience, CVPR, ICML, IJCAI**
+**NeurIPS, ACM MM, ECCV, AAAI, ICLR, Frontiers in Neuroscience, CVPR, ICML, IJCAI**
 - Spiking Neural Network as Adaptive Event Stream Slicer (**NeurIPS 2024**). [[paper](https://arxiv.org/abs/2410.02249)] 
 - Advancing Spiking Neural Networks for Sequential Modeling with Central Pattern Generators (**NeurIPS 2024**). [[paper](https://arxiv.org/abs/2405.14362)] [[code](https://github.com/microsoft/SeqSNN)]
 - QKFormer: Hierarchical Spiking Transformer using Q-K Attention (**NeurIPS 2024**). [[paper](https://arxiv.org/abs/2403.16552v2)] [[code](https://github.com/zhouchenlin2096/QKFormer)]
-- Integer-Valued Training and Spike-Driven Inference Spiking Neural Network for High-performance and Energy-efficient Object Detection (**ECCV 2024**). [[paper](https://arxiv.org/pdf/2407.20708)] [[code](https://github.com/BICLab/SpikeYOLO)]
+- Q-SNNs: Quantized Spiking Neural Networks (**ACM MM 2024**). [[paper](https://dl.acm.org/doi/10.1145/3664647.3681186)]
+- RSC-SNN: Exploring the Trade-off Between Adversarial Robustness and Accuracy in Spiking Neural Networks via Randomized Smoothing Coding (**ACM MM 2024**). [[paper](https://dl.acm.org/doi/10.1145/3664647.3680639)] [[code](https://github.com/KemingWu/RSC-SNN)]
+- Reversing Structural Pattern Learning with Biologically Inspired Knowledge Distillation for Spiking Neural Networks (**ACM MM 2024**). [[paper](https://dl.acm.org/doi/pdf/10.1145/3664647.3680655)]
+- Towards High-performance Spiking Transformers from ANN to SNN Conversion (**ACM MM 2024**). [[paper](https://dl.acm.org/doi/10.1145/3664647.3680620)]  [[code](https://github.com/h-z-h-cell/Transformer-to-SNN-ECMT)]
+- Towards Low-latency Event-based Visual Recognition with Hybrid Step-wise Distillation Spiking Neural Networks (**ACM MM 2024**). [[paper](https://dl.acm.org/doi/10.1145/3664647.3680832)]  [[code](https://github.com/hsw0929/HSD)]
 - Spiking Wavelet Transformer (**ECCV 2024**). [[paper](https://arxiv.org/pdf/2403.11138)] [[code](https://github.com/bic-L/Spiking-Wavelet-Transformer)]
 - Efficient Training of Spiking Neural Networks with Multi-Parallel Implicit Stream Architecture (**ECCV 2024**). [[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05068.pdf)] [[code](https://github.com/kiritozc/MPIS-SNNs)]
 - Asynchronous Bioplausible Neuron for Spiking Neural Networks for Event-Based Vision (**ECCV 2024**). [[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08133.pdf)] 
