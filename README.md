@@ -14,9 +14,11 @@ If you own or find some overlooked SNN papers, you can add them to this document
 [2024.04.29] Update SNN-related papers in ICLR 2024 (17 papers), AAAI 2024 (8), CVPR 2024 (3),
 
 
-<details>
+
   
 ### <summary> News 2023 </summary>
+
+<details>
   
 [2023.12.31] Update SNN-related papers in TPAMI 2023, Frontiers in Neuroscience 2023.
 
