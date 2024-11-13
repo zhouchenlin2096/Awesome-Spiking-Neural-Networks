@@ -9,7 +9,9 @@ If you own or find some overlooked SNN papers, you can add them to this document
 
 [2024.10.15] Update SNN-related papers in ECCV 2024 (8 papers).
 
-[2024.05.29] Update SNN-related papers in ICLR 2024 (17 papers), AAAI 2024 (8 papers), CVPR 2024 (3 papers), ICML 2024 (13 papers), IJCAI 2024 (5 papers).
+[2024.05.29] Update SNN-related papers in ICML 2024 (13 papers), IJCAI 2024 (5).
+
+[2024.04.29] Update SNN-related papers in ICLR 2024 (17 papers), AAAI 2024 (8), CVPR 2024 (3),
 
 
 <details>
