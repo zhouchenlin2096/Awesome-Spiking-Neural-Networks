@@ -13,11 +13,20 @@ If you own or find some overlooked SNN papers, you can add them to this document
 
 [2023.12.31] Update SNN-related papers in TPAMI 2023, Frontiers in Neuroscience 2023.
 
-[2023.11.06] Update SNN-related papers in NeurIPS 2023 (12 papers).
-
-[2023.10.08] Update SNN-related papers in CVPR 2023 (2 papers), ICML 2023 (2), IJCAI 2023 (3), and ICCV 2023 (10).
+[2023.10.31] Update SNN-related papers in CVPR 2023 (2 papers), ICML 2023 (2), IJCAI 2023 (3), and ICCV 2023 (10), NeurIPS 2023 (12).
 
 [2023.06.25] Update SNN-related papers in ICLR 2023 (6 papers), AAAI 2023 (6 papers).
+
+<details>
+<summary>点击这里查看日志</summary>
+
+<!-- 在这里添加你的日志内容 -->
+### 变更日志
+- 2024-01-01: 修复了bug #123
+- 2024-01-02: 增加了新功能 #456
+- 2024-01-03: 优化了性能 #789
+
+</details>
 
 
 ## Papers
