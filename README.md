@@ -15,10 +15,12 @@ If you own or find some overlooked SNN papers, you can add them to this document
 
 
 
-  
-### <summary> News 2023 </summary>
+###
 
 <details>
+
+  <summary> News 2023 </summary>
+
   
 [2023.12.31] Update SNN-related papers in TPAMI 2023, Frontiers in Neuroscience 2023.
 
