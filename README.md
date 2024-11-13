@@ -5,6 +5,9 @@ Collect some spiking neural network papers & codes.  (**Actively keep updating**
 If you own or find some overlooked SNN papers, you can add them to this document by pull request. 
 
 ## News
+
+[2024.11.13] Update SNN-related papers in NeurIPS 2024 (18 papers).
+
 [2024.10.31] Update SNN-related papers in ACM MM 2024 (5 papers).
 
 [2024.10.15] Update SNN-related papers in ECCV 2024 (8 papers).
@@ -13,9 +16,6 @@ If you own or find some overlooked SNN papers, you can add them to this document
 
 [2024.04.29] Update SNN-related papers in ICLR 2024 (17 papers), AAAI 2024 (8), CVPR 2024 (3),
 
-
-
-###
 
 <details>
 
@@ -38,9 +38,23 @@ If you own or find some overlooked SNN papers, you can add them to this document
 - Direct Training High-Performance Deep Spiking Neural Networks: A Review of Theories and Methods (**Frontiers in Neuroscience 2024**). [[paper]](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2024.1383844/full) [[arxiv](https://arxiv.org/abs/2405.04289v2)] 
 
 **NeurIPS, ACM MM, ECCV, AAAI, ICLR, Frontiers in Neuroscience, CVPR, ICML, IJCAI**
+- Spiking Graph Neural Network on Riemannian Manifolds (**NeurIPS 2024**). [[paper](https://openreview.net/pdf?id=VKt0K3iOmO)]
+- Rethinking the Dynamics of Spiking Neural Networks (**NeurIPS 2024**). [[paper](https://neurips.cc/virtual/2024/poster/96543)]
+- Long-Range Feedback Spiking Network Captures Dynamic and Static Representations of the Visual Cortex under Movie Stimuli (**NeurIPS 2024**). [[paper](https://openreview.net/pdf?id=bxDok3uaK6)] [[code](https://github.com/Grasshlw/SNN-Neural-Similarity-Movie)]
+- Take A Shortcut Back: Mitigating the Gradient Vanishing for Training Spiking Neural Networks (**NeurIPS 2024**). [[paper](https://openreview.net/pdf?id=xjyU6zmZD7)]
+- Advancing Training Efficiency of Deep Spiking Neural Networks through Rate-based Backpropagation (**NeurIPS 2024**). [[paper](https://arxiv.org/abs/2410.11488)] [[code](https://github.com/Tab-ct/rate-based-backpropagation)]
+- Latent Diffusion for Neural Spiking Data (**NeurIPS 2024**). [[paper](https://openreview.net/pdf?id=ZX6CEo1Wtv)]
+- Exact Gradients for Stochastic Spiking Neural Networks Driven by Rough Signals  (**NeurIPS 2024**). [[paper](https://openreview.net/pdf?id=95VyH4VxN9)] [[code](https://github.com/ridgerchu/SAD)]
+- Spatio-Temporal Interactive Learning for Efficient Image Reconstruction of Spiking Cameras  (**NeurIPS 2024**). [[paper](https://openreview.net/pdf?id=S4ZqnMywcM)]
+- Slack-Free Spiking Neural Network Formulation for Hypergraph Minimum Vertex Cover (**NeurIPS 2024**). [[paper](https://openreview.net/pdf?id=4A5IQEjG8c)]
+- EnOF: Training Accurate Spiking Neural Networks via Enhancing the Output Feature Representation (**NeurIPS 2024**). [[paper](https://openreview.net/pdf/5a4dfaf8dc6861efa8e8356b3bd86743ab98838d.pdf)]
+- Spiking Token Mixer: A event-driven friendly Former structure for spiking neural networks (**NeurIPS 2024**). [[paper](https://openreview.net/pdf?id=iYcY7KAkSy)] [[code](https://github.com/brain-intelligence-lab/STMixer_demo)]
+- SpGesture: Source-Free Domain-adaptive sEMG-based Gesture Recognition with Jaccard Attentive Spiking Neural Network (**NeurIPS 2024**). [[paper](https://arxiv.org/abs/2405.14398)] [[code](https://github.com/guoweiyu/SpGesture/)]
+- Spiking Transformer with Experts Mixture (**NeurIPS 2024**). [[paper](https://openreview.net/pdf/35a5bc54de368426f66605d8e3f447638863888a.pdf)] 
+- FEEL-SNN: Robust Spiking Neural Networks with Frequency Encoding and Evolutionary Leak Factor (**NeurIPS 2024**). [[paper](https://openreview.net/pdf?id=TuCQdBo4NC)] [[code](https://github.com/zju-bmi-lab/FEEL_SNN)]
 - Spiking Neural Network as Adaptive Event Stream Slicer (**NeurIPS 2024**). [[paper](https://arxiv.org/abs/2410.02249)] 
 - Advancing Spiking Neural Networks for Sequential Modeling with Central Pattern Generators (**NeurIPS 2024**). [[paper](https://arxiv.org/abs/2405.14362)] [[code](https://github.com/microsoft/SeqSNN)]
-- QKFormer: Hierarchical Spiking Transformer using Q-K Attention (**NeurIPS 2024**). [[paper](https://arxiv.org/abs/2403.16552v2)] [[code](https://github.com/zhouchenlin2096/QKFormer)]
+- QKFormer: Hierarchical Spiking Transformer using Q-K Attention (**NeurIPS 2024**). [[paper](https://openreview.net/pdf?id=AVd7DpiooC)] [[code](https://github.com/zhouchenlin2096/QKFormer)]
 - Q-SNNs: Quantized Spiking Neural Networks (**ACM MM 2024**). [[paper](https://dl.acm.org/doi/10.1145/3664647.3681186)]
 - RSC-SNN: Exploring the Trade-off Between Adversarial Robustness and Accuracy in Spiking Neural Networks via Randomized Smoothing Coding (**ACM MM 2024**). [[paper](https://dl.acm.org/doi/10.1145/3664647.3680639)] [[code](https://github.com/KemingWu/RSC-SNN)]
 - Reversing Structural Pattern Learning with Biologically Inspired Knowledge Distillation for Spiking Neural Networks (**ACM MM 2024**). [[paper](https://dl.acm.org/doi/pdf/10.1145/3664647.3680655)]
