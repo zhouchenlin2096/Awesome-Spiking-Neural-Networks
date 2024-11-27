@@ -61,6 +61,7 @@ If you own or find some overlooked SNN papers, you can add them to this document
 - Reversing Structural Pattern Learning with Biologically Inspired Knowledge Distillation for Spiking Neural Networks (**ACM MM 2024**). [[paper](https://dl.acm.org/doi/pdf/10.1145/3664647.3680655)]
 - Towards High-performance Spiking Transformers from ANN to SNN Conversion (**ACM MM 2024**). [[paper](https://dl.acm.org/doi/10.1145/3664647.3680620)]  [[code](https://github.com/h-z-h-cell/Transformer-to-SNN-ECMT)]
 - Towards Low-latency Event-based Visual Recognition with Hybrid Step-wise Distillation Spiking Neural Networks (**ACM MM 2024**). [[paper](https://dl.acm.org/doi/10.1145/3664647.3680832)]  [[code](https://github.com/hsw0929/HSD)]
+- Integer-Valued Training and Spike-Driven Inference Spiking Neural Network for High-performance and Energy-efficient Object Detection (**ECCV 2024**). [[paper](https://arxiv.org/pdf/2407.20708)] [[code](https://github.com/BICLab/SpikeYOLO)]
 - Spiking Wavelet Transformer (**ECCV 2024**). [[paper](https://arxiv.org/pdf/2403.11138)] [[code](https://github.com/bic-L/Spiking-Wavelet-Transformer)]
 - Efficient Training of Spiking Neural Networks with Multi-Parallel Implicit Stream Architecture (**ECCV 2024**). [[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05068.pdf)] [[code](https://github.com/kiritozc/MPIS-SNNs)]
 - Asynchronous Bioplausible Neuron for Spiking Neural Networks for Event-Based Vision (**ECCV 2024**). [[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08133.pdf)] 
