@@ -229,3 +229,16 @@ If you own or find some overlooked SNN papers, you can add them to this document
 - Temporal-wise Attention Spiking Neural Networks for Event Streams Classification. (**ECCV 2021**). [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Yao_Temporal-Wise_Attention_Spiking_Neural_Networks_for_Event_Streams_Classification_ICCV_2021_paper.pdf)]
 
 
+### Reference
+If you find this repo useful, please consider citing:
+```
+@article{zhou2024direct,
+  title={Direct training high-performance deep spiking neural networks: a review of theories and methods},
+  author={Zhou, Chenlin and Zhang, Han and Yu, Liutao and Ye, Yumin and Zhou, Zhaokun and Huang, Liwei and Ma, Zhengyu and Fan, Xiaopeng and Zhou, Huihui and Tian, Yonghong},
+  journal={Frontiers in Neuroscience},
+  volume={18},
+  pages={1383844},
+  year={2024},
+  publisher={Frontiers Media SA}
+}
+```
