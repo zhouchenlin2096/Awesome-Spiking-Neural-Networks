@@ -204,7 +204,7 @@ If you own or find some overlooked SNN papers, you can add them to this document
 - Spiking Graph Convolutional Networks [[paper](https://arxiv.org/abs/2205.02767)] [[code](https://github.com/ZulunZhu/SpikingGCN)]
 - A calibratable sensory neuron based on epitaxial VO2 for spike-based neuromorphic multisensory system [[paper](https://www.nature.com/articles/s41467-022-31747-w)] [[code](https://github.com/billyuanpku96/SNN-for-sensory-neuron)]
 - Online Training Through Time for Spiking Neural Networks (**NeurIPS 2022**).  [[paper](https://arxiv.org/abs/2210.04195)] [[code](https://github.com/pkuxmq/OTTT-SNN)]
-- Training Spiking Neural Networks with Event-driven Backpropagation [[paper](https://openreview.net/forum?id=nC8VC8gVGPo)] [[code](https://github.com/zhuyaoyu/SNN-event-driven-learning)]
+- Training Spiking Neural Networks with Event-driven Backpropagation [[paper](https://openreview.net/forum?id=d4JmP1T45WE)] [[code](https://github.com/zhuyaoyu/SNN-event-driven-learning)]
 - GLIF: A Unified Gated Leaky Integrate-and-Fire Neuron for Spiking Neural Networks [[paper](https://openreview.net/forum?id=UmFSx2c4ubT)] [[code](https://github.com/Ikarosy/Gated-LIF)]
 - Temporal Effective Batch Normalization in Spiking Neural Networks [[paper](https://openreview.net/forum?id=fLIgyyQiJqz)]
 - Training Spiking Neural Networks with Local Tandem Learning (**NeurIPS 2022**). [[paper](https://arxiv.org/pdf/2210.04532.pdf)]
