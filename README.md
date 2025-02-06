@@ -6,6 +6,8 @@ If you own or find some overlooked SNN papers, you can add them to this document
 
 ## News
 
+[2025.02.06] Update SNN-related papers in AAAI 2025 (18 papers).
+
 [2024.11.13] Update SNN-related papers in NeurIPS 2024 (18 papers).
 
 [2024.10.31] Update SNN-related papers in ACM MM 2024 (5 papers).
@@ -37,6 +39,29 @@ If you own or find some overlooked SNN papers, you can add them to this document
 
 
 ## Papers
+
+### 2025
+**AAAI**
+- SpikeGS: Reconstruct 3D scene captured by a fast moving bio-inspired camera (**AAAI 2025**). [[paper](https://arxiv.org/pdf/2407.03771v2)]
+- Rethinking High-speed Image Reconstruction Framework with Spike Camera (**AAAI 2025**). [[paper](https://arxiv.org/pdf/2407.03771v2)] [[code](https://github.com/chenkang455/SpikeCLIP)]
+- Spiking Point Transformer for Point Cloud Classification (**AAAI 2025**).
+- Efficient 3D Recognition with Event-driven Spike Sparse Convolution (**AAAI 2025**).[[paper](https://arxiv.org/pdf/2412.07360)] [[code](https://github.com/bollossom/e-3dsnn)]
+- GRSN: Gated Recurrent Spiking Neurons for POMDPs and MARL (**AAAI 2025**).[[paper](https://arxiv.org/pdf/2404.15597)]
+- EventZoom: A Progressive Approach to Event-Based Data Augmentation for Enhanced Neuromorphic Vision (**AAAI 2025**).[[paper](https://arxiv.org/pdf/2405.18880)]
+- Leveraging Asynchronous Spiking Neural Networks for Ultra Efficient Event-Based Visual Processing (**AAAI 2025**).
+- CREST: An Efficient Conjointly-trained Spike-driven Framework for Event-based Object Detection Exploiting Spatiotemporal Dynamics  (**AAAI 2025**).[[paper](https://arxiv.org/pdf/2412.12525)] [[code](https://github.com/shen-aoyu/CREST/)]
+- UCF-Crime-DVS: A Novel Event-Based Dataset for Video Anomaly Detection with Spiking Neural Networks (**AAAI 2025**).
+- SpikingSSMs: Learning Long Sequences with Sparse and Parallel Spiking State Space Models (**AAAI 2025**). [[paper](https://arxiv.org/pdf/2408.14909)][[code](https://github.com/shenshuaijie/SDN
+)]
+- Advancing Spiking Neural Networks towards Multiscale Spatiotemporal Interaction Learning (**AAAI 2025**). [[paper](https://arxiv.org/pdf/2405.13672)]
+- SpikingYOLOX: Improved YOLOX Object Detection with Fast Fourier Convolution and Spiking Neural Networks(**AAAI 2025**).
+- ALADE-SNN: Adaptive Logit Alignment in Dynamically Expandable Spiking Neural Networks for Class Incremental Learning (**AAAI 2025**).[[paper](https://arxiv.org/pdf/2412.12696)]
+- Efficient Spike-driven Transformer For High-performance Image Segmentation (**AAAI 2025**).[[paper](https://arxiv.org/pdf/2412.14587)] [[code](https://github.com/BICLab/Spike2Former)]
+- Towards Accurate Binary Spiking Neural Networks: Learning with Adaptive Gradient Modulation Mechanism (**AAAI 2025**).
+- Adaptive Calibration: A Unified Conversion Framework of Spiking Neural Networks (**AAAI 2025**).
+- Towards More Discriminative Feature Learning in SNNs with Temporal-Self-Erasing Supervision (**AAAI 2025**).
+- FSTA-SNN:Frequency-based Spatial-Temporal Attention Module for Spiking Neural Networks (**AAAI 2025**).[[paper](https://arxiv.org/pdf/2501.14744)] [[code](https://github.com/yukairong/FSTA-SNN)]
+
 ### 2024
 
 **Review**
