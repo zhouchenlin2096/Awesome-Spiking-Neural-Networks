@@ -30,6 +30,11 @@ If you own or find some overlooked SNN papers, you can add them to this document
 
 </details>
 
+## Papers
+### 2025
+
+**NeurIPS, ACM MM, ECCV, AAAI, ICLR, Frontiers in Neuroscience, CVPR, ICML, IJCAI**
+
 
 ## Papers
 ### 2024
