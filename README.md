@@ -8,6 +8,11 @@ If you own or find some overlooked SNN papers, you can add them to this document
 
 [2025.02.06] Update SNN-related papers in AAAI 2025 (18 papers).
 
+
+<details>
+
+<summary> News 2024 </summary>
+  
 [2024.11.13] Update SNN-related papers in NeurIPS 2024 (18 papers).
 
 [2024.10.31] Update SNN-related papers in ACM MM 2024 (5 papers).
@@ -16,7 +21,9 @@ If you own or find some overlooked SNN papers, you can add them to this document
 
 [2024.05.29] Update SNN-related papers in ICML 2024 (13 papers), IJCAI 2024 (5).
 
-[2024.04.29] Update SNN-related papers in ICLR 2024 (17 papers), AAAI 2024 (8), CVPR 2024 (3),
+[2024.04.29] Update SNN-related papers in ICLR 2024 (17 papers), AAAI 2024 (8), CVPR 2024 (3).
+
+</details>
 
 
 <details>
@@ -31,10 +38,6 @@ If you own or find some overlooked SNN papers, you can add them to this document
 [2023.06.25] Update SNN-related papers in ICLR 2023 (6 papers), AAAI 2023 (6 papers).
 
 </details>
-
-## Papers
-### 2025
-
 
 
 
@@ -60,7 +63,7 @@ If you own or find some overlooked SNN papers, you can add them to this document
 - Towards Accurate Binary Spiking Neural Networks: Learning with Adaptive Gradient Modulation Mechanism (**AAAI 2025**).
 - Adaptive Calibration: A Unified Conversion Framework of Spiking Neural Networks (**AAAI 2025**).
 - Towards More Discriminative Feature Learning in SNNs with Temporal-Self-Erasing Supervision (**AAAI 2025**).
-- FSTA-SNN:Frequency-based Spatial-Temporal Attention Module for Spiking Neural Networks (**AAAI 2025**).[[paper](https://arxiv.org/pdf/2501.14744)] [[code](https://github.com/yukairong/FSTA-SNN)]
+- FSTA-SNN: Frequency-based Spatial-Temporal Attention Module for Spiking Neural Networks (**AAAI 2025**).[[paper](https://arxiv.org/pdf/2501.14744)] [[code](https://github.com/yukairong/FSTA-SNN)]
 
 ### 2024
 
