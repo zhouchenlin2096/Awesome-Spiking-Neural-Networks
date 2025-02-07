@@ -6,8 +6,13 @@ If you own or find some overlooked SNN papers, you can add them to this document
 
 ## News
 
+<details>
+
+<summary> News 2025 </summary>
+
 [2025.02.06] Update SNN-related papers in AAAI 2025 (18 papers).
 
+</details>
 
 <details>
 
