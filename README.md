@@ -17,7 +17,7 @@ If you own or find some overlooked SNN papers, you can add them to this document
 <details>
 
 <summary> News 2024 </summary>
-  
+
 [2024.11.13] Update SNN-related papers in NeurIPS 2024 (18 papers).
 
 [2024.10.31] Update SNN-related papers in ACM MM 2024 (5 papers).
@@ -35,7 +35,7 @@ If you own or find some overlooked SNN papers, you can add them to this document
 
 <summary> News 2023 </summary>
 
-  
+
 [2023.12.31] Update SNN-related papers in TPAMI 2023, Frontiers in Neuroscience 2023.
 
 [2023.10.31] Update SNN-related papers in CVPR 2023 (2 papers), ICML 2023 (2), IJCAI 2023 (3), and ICCV 2023 (10), NeurIPS 2023 (12).
@@ -51,7 +51,7 @@ If you own or find some overlooked SNN papers, you can add them to this document
 ### 2025
 **AAAI**
 - SpikeGS: Reconstruct 3D scene captured by a fast moving bio-inspired camera (**AAAI 2025**). [[paper](https://arxiv.org/pdf/2407.03771v2)]
-- Rethinking High-speed Image Reconstruction Framework with Spike Camera (**AAAI 2025**). [[paper](https://arxiv.org/pdf/2407.03771v2)] [[code](https://github.com/chenkang455/SpikeCLIP)]
+- Rethinking High-speed Image Reconstruction Framework with Spike Camera (**AAAI 2025**). [[paper](https://arxiv.org/pdf/2501.04477)] [[code](https://github.com/chenkang455/SpikeCLIP)]
 - Spiking Point Transformer for Point Cloud Classification (**AAAI 2025**).
 - Efficient 3D Recognition with Event-driven Spike Sparse Convolution (**AAAI 2025**).[[paper](https://arxiv.org/pdf/2412.07360)] [[code](https://github.com/bollossom/e-3dsnn)]
 - GRSN: Gated Recurrent Spiking Neurons for POMDPs and MARL (**AAAI 2025**).[[paper](https://arxiv.org/pdf/2404.15597)]
