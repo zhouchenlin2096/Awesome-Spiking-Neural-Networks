@@ -10,7 +10,7 @@ If you own or find some overlooked SNN papers, you can add them to this document
 
 <summary> News 2025 </summary>
 
-[2025.02.06] Update SNN-related papers in ICLR 2025 (11 papers), CVPR 2025 (13 papers).
+[2025.04.11] Update SNN-related papers in ICLR 2025 (11 papers), CVPR 2025 (13 papers).
 
 [2025.02.06] Update SNN-related papers in AAAI 2025 (18 papers).
 
