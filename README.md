@@ -10,6 +10,8 @@ If you own or find some overlooked SNN papers, you can add them to this document
 
 <summary> News 2025 </summary>
 
+[2025.02.06] Update SNN-related papers in ICLR 2025 (11 papers), CVPR 2025 (13 papers).
+
 [2025.02.06] Update SNN-related papers in AAAI 2025 (18 papers).
 
 </details>
@@ -49,7 +51,20 @@ If you own or find some overlooked SNN papers, you can add them to this document
 ## Papers
 
 ### 2025
-**AAAI, ICLR**
+**AAAI, ICLR, CVPR**
+- Spk2SRImgNet: Super-Resolve Dynamic Scene from Spike Stream via Motion Aligned Collaborative Filtering (**CVPR 2025**). [[paper](https://cvpr.thecvf.com/virtual/2025/poster/33079)]
+- Decision SpikeFormer: Spike-Driven Transformer for Decision Making (**CVPR 2025**). [[paper](https://cvpr.thecvf.com/virtual/2025/poster/32864)]
+- Self-Supervised Learning for Color Spike Camera Reconstruction (**CVPR 2025**). [[paper](https://cvpr.thecvf.com/virtual/2025/poster/34093)]
+- USP-Gaussian: Unifying Spike-based Image Reconstruction, Pose Correction and Gaussian Splatting (**CVPR 2025**). [[paper](https://arxiv.org/abs/2411.10504)]
+- VISTREAM: Improving Computation Efficiency of Visual Perception Streaming via Law-of-Charge-Conservation Inspired Spiking Neural Network (**CVPR 2025**). [[paper](https://cvpr.thecvf.com/virtual/2025/poster/34908)]
+- Efficient ANN-Guided Distillation: Aligning Rate-based Features of Spiking Neural Networks through Hybrid Block-wise Replacement (**CVPR 2025**). [[paper](https://arxiv.org/abs/2503.16572)]
+- Spiking Transformer: Introducing Accurate Addition-Only Spiking Self-Attention for Transformer (**CVPR 2025**). [[paper](https://arxiv.org/abs/2503.00226)]
+- Brain-Inspired Spiking Neural Networks for Energy-Efficient Object Detection (**CVPR 2025**). [[paper](https://cvpr.thecvf.com/virtual/2025/poster/33275)]
+- Temporal Separation with Entropy Regularization for Knowledge Distillation in Spiking Neural Networks (**CVPR 2025**). [[paper](https://arxiv.org/abs/2503.03144)]
+- STAA-SNN: Spatial-Temporal Attention Aggregator for Spiking Neural Networks (**CVPR 2025**). [[paper](https://arxiv.org/abs/2503.02689)]
+- Towards Effective and Sparse Adversarial Attack on Spiking Neural Networks via Breaking Invisible Surrogate Gradients (**CVPR 2025**). [[paper](https://arxiv.org/abs/2503.03272)]
+- Rethinking Spiking Self-Attention Mechanism: Implementing α-XNOR Similarity Calculation in Spiking Transformers (**CVPR 2025**). [[paper](https://cvpr.thecvf.com/virtual/2025/poster/33850)]
+- Spiking Transformer with Spatial-Temporal Attention (**CVPR 2025**). [[paper](https://arxiv.org/abs/2409.19764)]
 - Quantized Spike-driven Transformer (**ICLR 2025**). [[paper](https://openreview.net/forum?id=5J9B7Sb8rO)]
 - SPAM: Spike-Aware Adam with Momentum Reset for Stable LLM Training (**ICLR 2025**). [[paper](https://openreview.net/forum?id=L9eBxTCpQG)]
 - Rethinking Spiking Neural Networks from an Ensemble Learning Perspective (**ICLR 2025**). [[paper](https://openreview.net/forum?id=ZyknpOQwkT)]
