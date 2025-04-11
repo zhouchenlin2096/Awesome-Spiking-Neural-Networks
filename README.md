@@ -49,7 +49,18 @@ If you own or find some overlooked SNN papers, you can add them to this document
 ## Papers
 
 ### 2025
-**AAAI**
+**AAAI, ICLR**
+- Quantized Spike-driven Transformer. [[paper](https://openreview.net/forum?id=5J9B7Sb8rO)]
+- SPAM: Spike-Aware Adam with Momentum Reset for Stable LLM Training. [[paper](https://openreview.net/forum?id=L9eBxTCpQG)]
+- Rethinking Spiking Neural Networks from an Ensemble Learning Perspective. [[paper](https://openreview.net/forum?id=ZyknpOQwkT)]
+- DeepTAGE: Deep Temporal-Aligned Gradient Enhancement for Optimizing Spiking Neural Networks. [[paper](https://openreview.net/forum?id=drPDukdY3t)]
+- QP-SNN: Quantized and Pruned Spiking Neural Networks. [[paper](https://openreview.net/forum?id=MiPyle6Jef)]
+- Temporal Flexibility in Spiking Neural Networks: Towards Generalization Across Time Steps and Deployment Friendliness. [[paper](https://openreview.net/forum?id=9HsfTgflT7)]
+- P-SpikeSSM: Harnessing Probabilistic Spiking State Space Models for Long-Range Dependency Tasks. [[paper](https://openreview.net/forum?id=Sf4ep9Udjf)]
+- TS-LIF: A Temporal Segment Spiking Neuron Network for Time Series Forecasting. [[paper](https://openreview.net/forum?id=rDe9yQQYKt)]
+- Improving the Sparse Structure Learning of Spiking Neural Networks from the View of Compression Efficiency. [[paper](https://openreview.net/forum?id=gcouwCx7dG)]
+- SpikeLLM: Scaling up Spiking Neural Network to Large Language Models via Saliency-based Spiking. [[paper](https://openreview.net/forum?id=ZadnlOHsHv)]
+- Spiking Vision Transformer with Saccadic Attention (**ICLR 2025**). [[paper](https://openreview.net/forum?id=qzZsz6MuEq)]
 - SpikeGS: Reconstruct 3D scene captured by a fast moving bio-inspired camera (**AAAI 2025**). [[paper](https://arxiv.org/pdf/2407.03771v2)]
 - Rethinking High-speed Image Reconstruction Framework with Spike Camera (**AAAI 2025**). [[paper](https://arxiv.org/pdf/2501.04477)] [[code](https://github.com/chenkang455/SpikeCLIP)]
 - Spiking Point Transformer for Point Cloud Classification (**AAAI 2025**).
