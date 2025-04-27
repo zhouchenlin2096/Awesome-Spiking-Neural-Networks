@@ -10,7 +10,7 @@ If you own or find some overlooked SNN papers, you can add them to this document
 
 <summary> News 2025 </summary>
 
-[2025.04.11] Update SNN-related papers in ICLR 2025 (11 papers), CVPR 2025 (13 papers).
+[2025.04.11] Update SNN-related papers in ICLR 2025 (11 papers), CVPR 2025 (14 papers).
 
 [2025.02.06] Update SNN-related papers in AAAI 2025 (18 papers).
 
@@ -52,6 +52,7 @@ If you own or find some overlooked SNN papers, you can add them to this document
 
 ### 2025
 **AAAI, ICLR, CVPR**
+- EventGPT: Event Stream Understanding with Multimodal Large Language Models (**CVPR 2025**). [[paper](https://arxiv.org/pdf/2412.00832)]  [[code](https://github.com/XduSyL/EventGPT)]
 - Spk2SRImgNet: Super-Resolve Dynamic Scene from Spike Stream via Motion Aligned Collaborative Filtering (**CVPR 2025**). [[paper](https://cvpr.thecvf.com/virtual/2025/poster/33079)]
 - Decision SpikeFormer: Spike-Driven Transformer for Decision Making (**CVPR 2025**). [[paper](https://cvpr.thecvf.com/virtual/2025/poster/32864)]
 - Self-Supervised Learning for Color Spike Camera Reconstruction (**CVPR 2025**). [[paper](https://cvpr.thecvf.com/virtual/2025/poster/34093)]
