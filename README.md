@@ -10,6 +10,8 @@ If you own or find some overlooked SNN papers, you can add them to this document
 
 <summary> News 2025 </summary>
 
+[2025.05.26] Update SNN-related papers in ICML 2025 (15 papers).
+
 [2025.04.11] Update SNN-related papers in ICLR 2025 (11 papers), CVPR 2025 (14 papers).
 
 [2025.02.06] Update SNN-related papers in AAAI 2025 (18 papers).
@@ -51,7 +53,22 @@ If you own or find some overlooked SNN papers, you can add them to this document
 ## Papers
 
 ### 2025
-**AAAI, ICLR, CVPR**
+**AAAI, ICLR, CVPR, ICML**
+- Efficient Logit-based Knowledge Distillation of Deep Spiking Neural Networks for Full-Range Timestep Deployment. [[paper](https://icml.cc/virtual/2025/poster/44825)] 
+- ReverB-SNN: Reversing Bit of the Weight and Activation for Spiking Neural Networks. [[paper](https://icml.cc/virtual/2025/poster/43640)] 
+- TTFSFormer: A TTFS-based Lossless Conversion of Spiking Transformer. [[paper](https://icml.cc/virtual/2025/poster/45087)] 
+- BSO: Binary Spiking Online Optimization. [[paper](https://icml.cc/virtual/2025/poster/45087)] 
+- Delay-DSGN: A Dynamic Spiking Graph Neural Network with Delay Mechanisms for Evolving Graph. [[paper](https://icml.cc/virtual/2025/poster/43816)] 
+- TS-SNN: Temporal Shift Module for Spiking Neural Networks. [[paper](https://arxiv.org/abs/2505.04165)] 
+- SpikF: Spiking Fourier Network for Efficient Long-term Prediction. [[paper](https://icml.cc/virtual/2025/poster/46411)] 
+- Self-cross Feature based Spiking Neural Networks for Efficient Few-shot Learning. [[paper](https://arxiv.org/pdf/2505.07921)] 
+- Faster and Stronger: When ANN-SNN Conversion Meets Parallel Spiking Calculation. [[paper](https://icml.cc/virtual/2025/poster/44986)] 
+- Efficient Parallel Training Methods for Spiking Neural Networks with Constant Time Complexity. [[paper](https://icml.cc/virtual/2025/poster/45776)] 
+- Training High Performance Spiking Neural Networks by Temporal Model Calibration. [[paper](https://icml.cc/virtual/2025/poster/44216)] 
+- Temporal Misalignment in ANN-SNN Conversion and Its Mitigation via Probabilistic Spiking Neurons. [[paper](https://icml.cc/virtual/2025/poster/45627)] 
+- Time to Spike? Understanding the Representational Power of Spiking Neural Networks in Discrete Time. [[paper](https://arxiv.org/abs/2505.18023)] 
+- Hybrid Spiking Vision Transformer for Object Detection with Event Cameras. [[paper](https://arxiv.org/abs/2505.07715)] 
+- Sorbet: A Neuromorphic Hardware-Compatible Transformer-Based Spiking Language Model. [[paper](https://arxiv.org/abs/2409.15298)] 
 - EventGPT: Event Stream Understanding with Multimodal Large Language Models (**CVPR 2025**). [[paper](https://arxiv.org/pdf/2412.00832)]  [[code](https://github.com/XduSyL/EventGPT)]
 - Spk2SRImgNet: Super-Resolve Dynamic Scene from Spike Stream via Motion Aligned Collaborative Filtering (**CVPR 2025**). [[paper](https://cvpr.thecvf.com/virtual/2025/poster/33079)]
 - Decision SpikeFormer: Spike-Driven Transformer for Decision Making (**CVPR 2025**). [[paper](https://cvpr.thecvf.com/virtual/2025/poster/32864)]
