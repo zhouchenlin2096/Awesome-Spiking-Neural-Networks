@@ -10,7 +10,7 @@ If you own or find some overlooked SNN papers, you can add them to this document
 
 <summary> News 2025 </summary>
 
-[2025.05.26] Update SNN-related papers in ICML 2025 (15 papers).
+[2025.05.26] Update SNN-related papers in ICML 2025 (17 papers).
 
 [2025.04.11] Update SNN-related papers in ICLR 2025 (11 papers), CVPR 2025 (14 papers).
 
@@ -54,6 +54,8 @@ If you own or find some overlooked SNN papers, you can add them to this document
 
 ### 2025
 **AAAI, ICLR, CVPR, ICML**
+- Efficient ANN-SNN Conversion with Error Compensation Learning (**ICML 2025**). [[paper](https://www.arxiv.org/abs/2506.01968)]
+- Differential Coding for Training-Free ANN-to-SNN Conversion (**ICML 2025**). [[paper](https://arxiv.org/abs/2503.00301)] 
 - Efficient Logit-based Knowledge Distillation of Deep Spiking Neural Networks for Full-Range Timestep Deployment (**ICML 2025**). [[paper](https://icml.cc/virtual/2025/poster/44825)] 
 - ReverB-SNN: Reversing Bit of the Weight and Activation for Spiking Neural Networks (**ICML 2025**). [[paper](https://icml.cc/virtual/2025/poster/43640)] 
 - TTFSFormer: A TTFS-based Lossless Conversion of Spiking Transformer (**ICML 2025**). [[paper](https://icml.cc/virtual/2025/poster/45087)] 
