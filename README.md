@@ -123,6 +123,7 @@ If you own or find some overlooked SNN papers, you can add them to this document
 - Direct Training High-Performance Deep Spiking Neural Networks: A Review of Theories and Methods (**Frontiers in Neuroscience 2024**). [[paper]](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2024.1383844/full) [[arxiv](https://arxiv.org/abs/2405.04289v2)] 
 
 **NeurIPS, ACM MM, ECCV, AAAI, ICLR, Frontiers in Neuroscience, CVPR, ICML, IJCAI**
+- SpikedAttention: Training-Free and Fully Spike-Driven Transformer-to-SNN Conversion with Winner-Oriented Spike Shift for Softmax Operation (**NeurIPS 2024**). [[paper](https://openreview.net/pdf?id=fs28jccJj5)]
 - Spiking Graph Neural Network on Riemannian Manifolds (**NeurIPS 2024**). [[paper](https://openreview.net/pdf?id=VKt0K3iOmO)]
 - Rethinking the Dynamics of Spiking Neural Networks (**NeurIPS 2024**). [[paper](https://neurips.cc/virtual/2024/poster/96543)]
 - Long-Range Feedback Spiking Network Captures Dynamic and Static Representations of the Visual Cortex under Movie Stimuli (**NeurIPS 2024**). [[paper](https://openreview.net/pdf?id=bxDok3uaK6)] [[code](https://github.com/Grasshlw/SNN-Neural-Similarity-Movie)]
