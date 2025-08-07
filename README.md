@@ -87,7 +87,6 @@ If you own or find some overlooked SNN papers, you can add them to this document
 - Rethinking Spiking Self-Attention Mechanism: Implementing α-XNOR Similarity Calculation in Spiking Transformers (**CVPR 2025**). [[paper](https://cvpr.thecvf.com/virtual/2025/poster/33850)]
 - Spiking Transformer with Spatial-Temporal Attention (**CVPR 2025**). [[paper](https://arxiv.org/abs/2409.19764)]
 - Quantized Spike-driven Transformer (**ICLR 2025**). [[paper](https://openreview.net/forum?id=5J9B7Sb8rO)]
-- SPAM: Spike-Aware Adam with Momentum Reset for Stable LLM Training (**ICLR 2025**). [[paper](https://openreview.net/forum?id=L9eBxTCpQG)]
 - Rethinking Spiking Neural Networks from an Ensemble Learning Perspective (**ICLR 2025**). [[paper](https://openreview.net/forum?id=ZyknpOQwkT)]
 - DeepTAGE: Deep Temporal-Aligned Gradient Enhancement for Optimizing Spiking Neural Networks (**ICLR 2025**). [[paper](https://openreview.net/forum?id=drPDukdY3t)]
 - QP-SNN: Quantized and Pruned Spiking Neural Networks (**ICLR 2025**). [[paper](https://openreview.net/forum?id=MiPyle6Jef)]
