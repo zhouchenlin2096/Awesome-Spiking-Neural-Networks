@@ -10,7 +10,7 @@ If you own or find some overlooked SNN papers, you can add them to this document
 
 <summary> News 2025 </summary>
 
-[2025.05.26] Update SNN-related papers in ICML 2025 (18 papers).
+[2025.05.26] Update SNN-related papers in ICML 2025 (18 papers), IJCAI (11 papers), ICCV (7 papers).
 
 [2025.04.11] Update SNN-related papers in ICLR 2025 (11 papers), CVPR 2025 (14 papers).
 
@@ -53,7 +53,25 @@ If you own or find some overlooked SNN papers, you can add them to this document
 ## Papers
 
 ### 2025
-**AAAI, ICLR, CVPR, ICML**
+**AAAI, ICLR, CVPR, ICML, IJCAI**
+- ClearSight: Human Vision-Inspired Solutions for Event-Based Motion Deblurring (**ICCV 2025**). [[paper](https://iccv.thecvf.com/virtual/2025/poster/1849)]  
+- Robust Unfolding Network for HDR Imaging with Modulo Cameras (**ICCV 2025**). [[paper](https://iccv.thecvf.com/virtual/2025/poster/1986)]    
+- SpikeDiff: Zero-shot High-Quality Video Reconstruction from Chromatic Spike Camera and Sub-millisecond Spike Streams (**ICCV 2025**). [[paper](https://iccv.thecvf.com/virtual/2025/poster/1181)]    
+- Noise-Modeled Diffusion Models for Low-Light Spike Image Restoration (**ICCV 2025**). [[paper](https://iccv.thecvf.com/virtual/2025/poster/1467)]    
+- Efficient Spiking Point Mamba for Point Cloud Analysis (**ICCV 2025**). [[paper](https://iccv.thecvf.com/virtual/2025/poster/2271)]    
+- SpikePack: Enhanced Information Flow in Spiking Neural Networks with High Hardware Compatibility (**ICCV 2025**). [[paper](https://iccv.thecvf.com/virtual/2025/poster/345)]   
+- SpiLiFormer: Enhancing Spiking Transformers with Lateral Inhibition (**ICCV 2025**). [[paper](https://iccv.thecvf.com/virtual/2025/poster/1753)]   
+- Adaptive Gradient Learning for Spiking Neural Networks by Exploiting Membrane Potential Dynamics (**IJCAI 2025**). [[paper](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/7783.pdf)]  
+- ILIF: Temporal Inhibitory Leaky Integrate-and-Fire Neuron for Overactivation in Spiking Neural Networks (**IJCAI 2025**). [[paper](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/4566.pdf)]  
+- Neuromorphic Sequential Arena: A Benchmark for Neuromorphic Temporal Processing (**IJCAI 2025**). [[paper](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/7408.pdf)]  
+- MSVIT: Improving Spiking Vision Transformer Using Multi-scale Attention Fusion (**IJCAI 2025**). [[paper](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/7378.pdf)] 
+- A Fast and Accurate ANN-SNN Conversion Algorithm with Negative Spikes (**IJCAI 2025**). [[paper](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/6149.pdf)] 
+- ECC-SNN: Cost-Effective Edge-Cloud Collaboration for Spiking Neural Networks (**IJCAI 2025**). [[paper](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/3167.pdf)] 
+- Cost-Effective On-Device Sequential Recommendation with Spiking Neural Networks (**IJCAI 2025**). [[paper](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/3150.pdf)]
+- SCNNs: Spike-based Coupling Neural Networks for Understanding Structural-Functional Relationships in the Human Brain (**IJCAI 2025**). [[paper](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/1337.pdf)]
+- Exploiting Label Skewness for Spiking Neural Networks in Federated Learning (**IJCAI 2025**). [[paper](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/1298.pdf)]
+- Binary Event-Driven Spiking Transformer (**IJCAI 2025**). [[paper](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/1206.pdf)]
+- Tackling Long-Tailed Data Challenges in Spiking Neural Networks via Heterogeneous Knowledge Distillation (**IJCAI 2025**). [[paper](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/787.pdf)]
 - SpikeVideoFormer: An Efficient Spike-Driven Video Transformer with Hamming Attention and $\mathcal{O}(T)$ Complexity (**ICML 2025**). [[paper](https://arxiv.org/abs/2505.10352)]
 - Efficient ANN-SNN Conversion with Error Compensation Learning (**ICML 2025**). [[paper](https://www.arxiv.org/abs/2506.01968)]
 - Differential Coding for Training-Free ANN-to-SNN Conversion (**ICML 2025**). [[paper](https://arxiv.org/abs/2503.00301)] 
