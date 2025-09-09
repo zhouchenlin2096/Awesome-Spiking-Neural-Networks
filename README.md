@@ -10,7 +10,7 @@ If you own or find some overlooked SNN papers, you can add them to this document
 
 <summary> News 2025 </summary>
 
-[2025.05.26] Update SNN-related papers in ICML 2025 (18 papers), IJCAI (11 papers), ICCV (7 papers).
+[2025.05.26] Update SNN-related papers in ICML 2025 (18 papers), IJCAI (11 papers), ICCV (7 papers), and ACM MM (9 papers).
 
 [2025.04.11] Update SNN-related papers in ICLR 2025 (11 papers), CVPR 2025 (14 papers).
 
@@ -53,7 +53,16 @@ If you own or find some overlooked SNN papers, you can add them to this document
 ## Papers
 
 ### 2025
-**AAAI, ICLR, CVPR, ICML, IJCAI**
+**AAAI, ICLR, CVPR, ICML, IJCAI, ICCV, ACM MM**
+- DSF-Net: Dynamic Sparse Fusion of Event-RGB via Spike-Triggered Attention for High-Speed Detection (**ACM MM 2025**). 
+- ESOD: Event-Based Small Object Detection (**ACM MM 2025**). 
+- E-4DGS: High-Fidelity Dynamic Reconstruction from the Multi-view Event Cameras (**ACM MM 2025**). 
+- Incorporating the Refractory Period into Spiking Neural Networks through Spike-Triggered Threshold Dynamics (**ACM MM 2025**). 
+- Signal-SGN: A Spiking Graph Convolutional Network for Skeleton Action Recognition via Learning Temporal-Frequency Dynamics (**ACM MM 2025**). 
+- SGM-Transformer: Rethinking Gradient Information Loss and Compensation in Spiking Neural Networks (**ACM MM 2025**). 
+- Advanced SpikingYOLOX: Extending Spiking Neural Network on Object Detection with Spike-based Partial Self-Attention and 2D-Spiking Transformer (**ACM MM 2025**). 
+- Spiking Neural Networks with Temporal Attention-Guided Adaptive Fusion for imbalanced Multi-modal Learning (**ACM MM 2025**). 
+- Temporal-coded Spiking Transformer (**ACM MM 2025**). 
 - ClearSight: Human Vision-Inspired Solutions for Event-Based Motion Deblurring (**ICCV 2025**). [[paper](https://iccv.thecvf.com/virtual/2025/poster/1849)]  
 - Robust Unfolding Network for HDR Imaging with Modulo Cameras (**ICCV 2025**). [[paper](https://iccv.thecvf.com/virtual/2025/poster/1986)]    
 - SpikeDiff: Zero-shot High-Quality Video Reconstruction from Chromatic Spike Camera and Sub-millisecond Spike Streams (**ICCV 2025**). [[paper](https://iccv.thecvf.com/virtual/2025/poster/1181)]    
